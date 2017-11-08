@@ -32,14 +32,14 @@ Bâtiment Descartes, bureau 306 A
 
 #### [](#header-4)2017
 
-*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2017/430)
+*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
 
 
 #### [](#header-4)2016
 
-*   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2016/1164)
-*   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2016/870).  
-*   **A homomorphic lwe based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_.
+*   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
+*   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2016/870){:target="_blank"}.  
+*   **A homomorphic lwe based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
 
 
 * * *
@@ -47,7 +47,7 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Developpement
 
-*   **TFHE: Fast Fully Homomorphic Encryption over the Torus.** A fast open-source library for fully homomorphic encryption. [<span style="color:#f00909">GitHub</span>](https://tfhe.github.io/tfhe/)
+*   **TFHE: Fast Fully Homomorphic Encryption over the Torus.** A fast open-source library for fully homomorphic encryption. [<span style="color:#f00909">GitHub</span>](https://tfhe.github.io/tfhe/){:target="_blank"}
 
 
 
@@ -116,7 +116,7 @@ Bâtiment Descartes, bureau 306 A
 * * *
 
 
-This site has been made by using the [<span style="color:#f00909">Jekyll</span>](https://jekyllrb.com/) theme [<span style="color:#f00909">Slate</span>](https://github.com/pages-themes/slate). 
+This site has been made by using the [<span style="color:#f00909">Jekyll</span>](https://jekyllrb.com/){:target="_blank"} theme [<span style="color:#f00909">Slate</span>](https://github.com/pages-themes/slate){:target="_blank"}. 
 
 
 
