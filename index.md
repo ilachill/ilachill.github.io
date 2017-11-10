@@ -32,13 +32,13 @@ Bâtiment Descartes, bureau 306 A
 
 #### [](#header-4)2017
 
-*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
+*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
 
 
 #### [](#header-4)2016
 
-*   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
-*   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">ePrint</span>](http://eprint.iacr.org/2016/870){:target="_blank"}.  
+*   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
+*   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/870){:target="_blank"}.  
 *   **A homomorphic lwe based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
 
 
@@ -92,9 +92,11 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)International schools
 
-*   **Fully homomorphic encryption.** At CryptoBG International Summer School 2016 (Bulgaria).
+*   **Fully homomorphic encryption.** 
+	*   July 2016 - At CryptoBG International Summer School 2016 (Bulgaria).
 
-*   **Implementing a Fully Homomorphic Encryption scheme.** At CryptoBG International Summer School 2015 (Bulgaria).
+*   **Implementing a Fully Homomorphic Encryption scheme.** 
+	*   July 2015 - At CryptoBG International Summer School 2015 (Bulgaria).
 
 
 * * *
@@ -102,7 +104,8 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Vulgarization
 
-*   **La Cryptographie.** At Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France) - 25-26 April 2016.
+*   **La Cryptographie.** 
+	*   April 2016 - At Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France).
 
 
 * * *
