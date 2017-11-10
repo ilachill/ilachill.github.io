@@ -45,7 +45,7 @@ Bâtiment Descartes, bureau 306 A
 * * *
 
 
-# [](#header-1)Developpement
+# [](#header-1)Development
 
 *   **TFHE: Fast Fully Homomorphic Encryption over the Torus.** A fast open-source library for fully homomorphic encryption. [<span style="color:#f00909">GitHub</span>](https://tfhe.github.io/tfhe/){:target="_blank"}
 
@@ -81,7 +81,7 @@ Bâtiment Descartes, bureau 306 A
 
 
 
-*   **Attaques par Safe-Errors dans le Cloud.** 
+*   **Safe-Error attacks on the Cloud.** 
 	*   October 2015 - At Journées Codage et Cryptographie 2015 (France).
 
 
@@ -104,7 +104,7 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Vulgarization
 
-*   **La Cryptographie.** 
+*   **Cryptography.** 
 	*   April 2016 - At Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France).
 
 
@@ -113,15 +113,15 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Teaching
 
-#### [](#header-4)University of Versailles
+#### [](#header-4)University of Versailles (UVSQ)
 
-*   **Cryptographie**: TD 30h - M1 Mathematics (2017) and M1 Informatics (2015, 2016).
-*   **TER**: 2 students M1 Informatics (2016).
-*   **Compléments de maths discrètes**: TD 15h - M1 Informatics (2015, 2016, 2017).
-*   **Cryptographie**: TD 36h - L3 Informatics (scheduled for 2018).
-*   **Maths pour l'info**: TD 36h - L2 Informatics (2017).
-*   **Fondaments de l'informatique II**: TD 36h - L1 Informatics (scheduled for 2018).
-*   **Fondaments de l'informatique I**: TD 36h - L1 Informatics (2017).
+*   **Cryptography**: TD (tutorial) 30h - M1 (MS.1) Mathematics (2017) and M1 (MS.1) Computer Science (2015, 2016).
+*   **Student project supervision**: 2 students M1 (MS.1) Computer Science (2016).
+*   **Complements of discrete mathematics**: TD (tutorial) 15h - M1 (MS.1) Computer Science (2015, 2016, 2017).
+*   **Cryptography**: TD (tutorial) 36h - L3 (BS.3) Computer Science (scheduled for 2018).
+*   **Mathematics for computer science**: TD (tutorial) 36h - L2 (BS.2) Bio-informatics (2017).
+*   **Foundations of computer science II**: TD (tutorial) 36h - L1 (BS.1) Bio-informatics (scheduled for 2018).
+*   **Foundations of computer science I**: TD (tutorial) 36h - L1 (BS.1) Bio-informatics (2017).
 
 
 * * *
