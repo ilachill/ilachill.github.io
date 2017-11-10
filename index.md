@@ -56,31 +56,33 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Talks
 
-*   October 2017 - **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.** At Lattice and crypto meetings (ENS Lyon, France).
+*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.**
+	*   October 2017 - At Lattice and crypto meetings (ENS Lyon, France).
 
-*   September 2017 - **Le chiffrement homomorphe.** At Journée du LMV (University of Versailles, France).
 
-*   April 2017 - **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** At Journées Codage et Cryptographie 2017 (France).
 
-*   April 2017 - **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** At Séminaire GTBAC (Télécom ParisTech, France).
+*   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** 
+	*   April 2017 - At Séminaire GTBAC (Télécom ParisTech, France) and Journées Codage et Cryptographie 2017 (France).
+	*   February 2017 - At Séminaire de cryptographie (ENS Paris, France).
+	*   January 2017 - At Séminaire de cryptographie (University of Caen, France).
+	*   November 2016 - At Lattice and crypto meetings (ENS Lyon, France) and Séminaires CRYPTO (University of Versailles, France).
 
-*   February 2017 - **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** At Séminaire de cryptographie (ENS Paris, France).
 
-*   January 2017 - **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** At Séminaire de cryptographie (University of Caen, France).
 
-*   November 2016 - **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** At Lattice and crypto meetings (ENS Lyon, France).
+*   **An Homomorphic LWE based E-voting Scheme.** 
+	*   April 2016 - At Séminaires CRYPTO (University of Versailles, France).
+	*   February 2016 - At PQCrypto 2016 (Japan).
 
-*   November 2016 - **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** At Séminaires CRYPTO (University of Versailles, France).
 
-*   April 2016 - **An Homomorphic LWE based E-voting Scheme.** At Séminaires CRYPTO (University of Versailles, France).
 
-*   February 2016 - **An Homomorphic LWE based E-voting Scheme.** At PQCrypto 2016 (Japan).
+*   **Fully Homomorphic Encryption.** 
+	*   September 2017 - At Journée du LMV (University of Versailles, France).
+	*   December 2015 - At Séminaires des jeunes LMV (University of Versailles, France) and Seminari di Matematica (University of Cagliari, Italy).
 
-*  	December 2015 - **Fully Homomorphic Encryption.** At Seminari di Matematica (University of Cagliari, Italy).
 
-*  	December 2015 - **Fully Homomorphic Encryption.** At Séminaires des jeunes LMV (University of Versailles, France).
 
-*   October 2015 - **Attaques par Safe-Errors dans le Cloud.** At Journées Codage et Cryptographie 2015 (France).
+*   **Attaques par Safe-Errors dans le Cloud.** 
+	*   October 2015 - At Journées Codage et Cryptographie 2015 (France).
 
 
 
@@ -88,13 +90,19 @@ Bâtiment Descartes, bureau 306 A
 * * *
 
 
-# [](#header-1)Schools
+# [](#header-1)International schools
 
 *   **Fully homomorphic encryption.** At CryptoBG International Summer School 2016 (Bulgaria).
 
-*   **La Cryptographie.** At Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France) - 25-26 April 2016.
-
 *   **Implementing a Fully Homomorphic Encryption scheme.** At CryptoBG International Summer School 2015 (Bulgaria).
+
+
+* * *
+
+
+# [](#header-1)Vulgarization
+
+*   **La Cryptographie.** At Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France) - 25-26 April 2016.
 
 
 * * *
