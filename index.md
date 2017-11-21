@@ -39,7 +39,7 @@ Bâtiment Descartes, bureau 306 A
 
 *   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
 *   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/870){:target="_blank"}.  
-*   **A homomorphic lwe based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
+*   **A homomorphic LWE based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
 
 
 * * *
