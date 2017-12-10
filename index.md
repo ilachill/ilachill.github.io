@@ -57,6 +57,7 @@ Bâtiment Descartes, bureau 306 A
 # [](#header-1)Talks
 
 *   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.**
+	*   December 2017 - At Asiacrypt 2017 (Hong Kong, China).
 	*   October 2017 - At Lattice and crypto meetings (ENS Lyon, France).
 
 
