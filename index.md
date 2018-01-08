@@ -30,9 +30,14 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Publications
 
+#### [](#header-4)2018
+
+*	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, and A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
+
+
 #### [](#header-4)2017
 
-*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
+*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
 
 
 #### [](#header-4)2016
