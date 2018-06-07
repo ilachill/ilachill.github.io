@@ -6,21 +6,22 @@
 layout: default
 ---
 
-<img src="Ilaria_Chillotti_BN.jpg" width="150">
+<img src="Ilaria_Chillotti_BN.jpg" width="170" 
+style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am currenly a PhD student (and ATER) in the Crypto team at the Laboratory of Mathematics of Versailles (UVSQ). I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble (2014). I started my PhD in 2015, under the supervision of Louis Goubin and Nicolas Gama. I study <span style="color:#f00909">**Fully Homomorphic Encryption**</span> and <span style="color:#f00909">**Cloud Computing**</span>. 
+I am a PhD in Cryptology. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble (2014). 
+I started my PhD in 2015 in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. <br>
+During 2017-2018 I did an ATER (research and teaching) at University of Versailles (UVSQ). <br>    
 
 * * *
 
 
 # [](#header-1)Contact
 
-Bâtiment Descartes, bureau 306 A
-
-45, avenue des États Unis
-
-78035 Versailles cedex
-
+Bâtiment Descartes, bureau 306 A <br>
+45, avenue des États Unis <br>
+78035 Versailles cedex <br>
 <span style="color:#f00909">**E-mail:**</span> ilaria.chillotti@uvsq.fr
 
 
@@ -32,6 +33,7 @@ Bâtiment Descartes, bureau 306 A
 
 #### [](#header-4)2018
 
+*   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti, PhD manuscript. [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
 *	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, and A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
 
 
@@ -45,6 +47,9 @@ Bâtiment Descartes, bureau 306 A
 *   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
 *   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/870){:target="_blank"}.  
 *   **A homomorphic LWE based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
+
+
+
 
 
 * * *
@@ -61,7 +66,12 @@ Bâtiment Descartes, bureau 306 A
 
 # [](#header-1)Talks
 
+*   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** 
+	*	17 May 2018 - PhD defence (University of Versailles, France).
+
+
 *   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.**
+	*	May 2018 - At LATCA workshop 2018 (Bertinoro, Italy)
 	*   December 2017 - At Asiacrypt 2017 (Hong Kong, China).
 	*   October 2017 - At Lattice and crypto meetings (ENS Lyon, France).
 
