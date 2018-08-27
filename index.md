@@ -12,7 +12,9 @@ style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black
 I am a PhD in Cryptology. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble (2014). 
 I started my PhD in 2015 in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. <br>
-During 2017-2018 I did an ATER (research and teaching) at University of Versailles (UVSQ). <br>    
+During 2017-2018 I did an ATER (research and teaching) at University of Versailles (UVSQ). <br>   
+
+I am currently a research intern in the Cryptography Research group at **Microsoft Research** (Redmond, WA, USA). <br> 
 
 * * *
 
@@ -34,6 +36,7 @@ Bâtiment Descartes, bureau 306 A <br>
 #### [](#header-4)2018
 
 *   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti, PhD manuscript. [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
+*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _(Invited to Journal of Cryptology)_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
 *	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, and A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
 
 
