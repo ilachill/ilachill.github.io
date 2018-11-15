@@ -10,7 +10,7 @@ layout: default
 <img src="Ilaria_Chillotti_BN.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am a Post-Doc in Cryptology at KU Leuven. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I am a Post-Doc in the COSIC research group in KU Leuven. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble (2014). 
 I started the PhD in 2015 in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. During the 2017-2018 accademic year I did an ATER (research and teaching) at University of Versailles (UVSQ). During the summer of 2018 I was a research intern in the Cryptography Research group at Microsoft Research (Redmond, WA, USA). <br> 
@@ -32,7 +32,9 @@ ESAT - COSIC, Computer Security and Industrial Cryptography <br>
 Kasteelpark Arenberg 10 - box 2452 <br>
 3001 Leuven, Belgium <br>
 <span style="color:#f00909">**E-mail:**</span> 
-ilaria.chillotti (at) kuleuven (dot) be 
+ilaria.chillotti (at) kuleuven (dot) be <br>
+**Office:** B01.26
+
 
 
 
