@@ -31,9 +31,12 @@ I started the PhD in 2015 in the Crypto team at the Laboratory of Mathematics of
 ESAT - COSIC, Computer Security and Industrial Cryptography <br>
 Kasteelpark Arenberg 10 - box 2452 <br>
 3001 Leuven, Belgium <br>
+**Office:** B01.26 <br>
+<br>
 <span style="color:#f00909">**E-mail:**</span> 
 ilaria.chillotti (at) kuleuven (dot) be <br>
-**Office:** B01.26
+<span style="color:#f00909">**GitHub:**</span> 
+https://github.com/ilachill <br>
 
 
 
@@ -42,6 +45,12 @@ ilaria.chillotti (at) kuleuven (dot) be <br>
 
 
 # [](#header-1)Publications
+
+#### [](#header-4)2019
+
+*   **Multi-Key Homomophic Encryption from TFHE.** H. Chen, I. Chillotti, and Y. Song. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/116){:target="_blank"}
+*   **Improved Bootstrapping for Approximate Homomorphic Encryption.** H. Chen, I. Chillotti, and Y. Song. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/1043){:target="_blank"}
+
 
 #### [](#header-4)2018
 
@@ -68,8 +77,9 @@ ilaria.chillotti (at) kuleuven (dot) be <br>
 * * *
 
 
-# [](#header-1)Development
+# [](#header-1)Open-source development
 
+*   **MK-TFHE: Multi-Key Homomophic Encryption from TFHE.** [<span style="color:#f00909">GitHub</span>](https://github.com/ilachill/MK-TFHE){:target="_blank"}
 *   **TFHE: Fast Fully Homomorphic Encryption over the Torus.** A fast open-source library for fully homomorphic encryption. [<span style="color:#f00909">GitHub</span>](https://tfhe.github.io/tfhe/){:target="_blank"}
 
 
@@ -79,6 +89,13 @@ ilaria.chillotti (at) kuleuven (dot) be <br>
 
 
 # [](#header-1)Talks
+
+*   **TFHE: Fully Homomorphic Encryption over the Torus.** 
+	*	7 February 2019 - COED seminar (KU Leuven, Belgium).
+
+*   **Improved Bootstrapping for Approximate Homomorphic Encryption.** 
+	*	29 November 2018 - Public Key seminar COSIC (KU Leuven, Belgium).
+	
 
 *   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** 
 	*	17 May 2018 - PhD defence (University of Versailles, France).
