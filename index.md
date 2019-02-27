@@ -54,7 +54,7 @@ https://github.com/ilachill <br>
 
 #### [](#header-4)2018
 
-*	**Scaling Up Secure Nearest Neighbor Search.** H. Chen, I. Chillotti, O. Poburinnaya, I. Razenshteyn and M. S. Riazi . _Privacy Preserving Machine Learning (PPML'18), NeurIPS 2018 Workshop_. 
+*	**Scaling Up Secure Nearest Neighbor Search.** H. Chen, I. Chillotti, O. Poburinnaya, I. Razenshteyn, and M. S. Riazi. _Privacy Preserving Machine Learning (PPML'18), NeurIPS 2018 Workshop_. 
 *   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti, PhD manuscript. [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
 *	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _(Invited to Journal of Cryptology)_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
 *	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, and A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
