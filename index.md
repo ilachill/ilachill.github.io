@@ -121,7 +121,7 @@ https://github.com/ilachill <br>
 
 *   **An Homomorphic LWE based E-voting Scheme.** 
 	*   April 2016 - At Séminaires CRYPTO (University of Versailles, France).
-	*   February 2016 - At PQCrypto 2016 (Japan).
+	*   February 2016 - At PQCrypto 2016 (Japan). [<span style="color:#f00909">Slides</span>](https://pqcrypto2016.jp/data/Chillotti-Gama_Georgieva_Izabachene-An_Homomorphic_LWE-based_E-voting_Scheme-less-pauses.pdf){:target="_blank"} 
 
 
 
