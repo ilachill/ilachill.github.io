@@ -48,28 +48,29 @@ https://github.com/ilachill <br>
 
 #### [](#header-4)2019
 
-*   **Multi-Key Homomophic Encryption from TFHE.** H. Chen, I. Chillotti, and Y. Song. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/116){:target="_blank"}
-*   **Improved Bootstrapping for Approximate Homomorphic Encryption.** H. Chen, I. Chillotti, and Y. Song. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/1043){:target="_blank"}
+*   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. [<span style="color:#f00909">PDF</span>](https://arxiv.org/abs/1904.02033){:target="_blank"}
+*   	**Multi-Key Homomophic Encryption from TFHE.** H. Chen, I. Chillotti, Y. Song. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/116){:target="_blank"}
+*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2019_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
+*   	**Improved Bootstrapping for Approximate Homomorphic Encryption.** H. Chen, I. Chillotti, Y. Song. _EUROCRYPT 2019_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/1043){:target="_blank"}
 
 
 #### [](#header-4)2018
 
-*	**Scaling Up Secure Nearest Neighbor Search.** H. Chen, I. Chillotti, O. Poburinnaya, I. Razenshteyn, and M. S. Riazi. _Privacy Preserving Machine Learning (PPML'18), NeurIPS 2018 Workshop_. 
-*   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti, PhD manuscript. [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
-*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _(Invited to Journal of Cryptology)_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
-*	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, and A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
+*	**Scaling Up Secure Nearest Neighbor Search.** H. Chen, I. Chillotti, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. _Privacy Preserving Machine Learning (PPML'18), NeurIPS 2018 Workshop_. 
+*	**Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti, PhD manuscript (Université de Versailles Saint-Quentin-en-Yvelines, Paris-Saclay). [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
+*	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
 
 
 #### [](#header-4)2017
 
-*   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
+*   	**Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _ASIACRYPT 2017_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2017/430){:target="_blank"}
 
 
 #### [](#header-4)2016
 
-*   **Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, and L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
-*   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/870){:target="_blank"}.  
-*   **A homomorphic LWE based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, and M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
+*   	**Attacking FHE-based applications by software fault injections.** I. Chillotti, N. Gama, L. Goubin. _IACR Cryptology ePrint Archive 2016_. [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/1164){:target="_blank"}.
+*   	**Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _ASIACRYPT 2016_ (Best Paper). [<span style="color:#f00909">PDF</span>](http://eprint.iacr.org/2016/870){:target="_blank"}. 
+*   	**A homomorphic LWE based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
 
 
 
