@@ -12,7 +12,7 @@ style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black
 
 I am a Post-Doc in the COSIC research group in KU Leuven. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
-I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble (2014). 
+I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
 I started the PhD in 2015 in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. During the 2017-2018 accademic year I did an ATER (research and teaching) at University of Versailles (UVSQ). During the summer of 2018 I was a research intern in the Cryptography Research group at Microsoft Research (Redmond, WA, USA). <br> 
 
 
@@ -88,18 +88,30 @@ https://github.com/ilachill <br>
 
 
 
+
+* * *
+
+
+# [](#header-1)Awards
+
+* 	**Finalist of the PhD Thesis Prize GDR Sécurité Informatique 2019** for the thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_.
+*	**Best Paper Award at Asiacrypt 2016** for the paper _Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds_.
+
+
+
 * * *
 
 
 # [](#header-1)Talks
 
 *   **Improved Bootstrapping for Approximate Homomorphic Encryption.** 
-	*	29 March 2019 - Séminaire C2 (Rennes, France). 
-	*	29 November 2018 - Public Key seminar COSIC (KU Leuven, Belgium).
+	*	21 May 2019 - At Eurocrypt 2019 (Darmstadt, Germany).
+	*	29 March 2019 - At Séminaire C2 (Rennes, France). 
+	*	29 November 2018 - At Public Key seminar COSIC (KU Leuven, Belgium).
 	
 *   **TFHE: Fully Homomorphic Encryption over the Torus.** 
-	*	21 February 2019 - ISG Research Seminar (Royal Holloway, UK).
-	*	7 February 2019 - COED seminar (KU Leuven, Belgium).
+	*	21 February 2019 - At ISG Research Seminar (Royal Holloway, UK).
+	*	7 February 2019 - At COED seminar (KU Leuven, Belgium).
 
 *   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** 
 	*	17 May 2018 - PhD defence (University of Versailles, France).
