@@ -165,6 +165,14 @@ https://github.com/ilachill <br>
 * * *
 
 
+# [](#header-1)Programme Committee Member
+
+*   **MathCrypt 2019** - Santa Barbara, USA, August 18, 2019.
+
+
+* * *
+
+
 # [](#header-1)Teaching
 
 #### [](#header-4)University of Versailles (UVSQ)
