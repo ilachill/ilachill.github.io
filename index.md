@@ -37,6 +37,8 @@ Kasteelpark Arenberg 10 - box 2452 <br>
 ilaria.chillotti (at) kuleuven (dot) be <br>
 <span style="color:#f00909">**GitHub:**</span> 
 https://github.com/ilachill <br>
+<span style="color:#f00909">**ORCID:**</span> 
+https://orcid.org/0000-0002-0319-4707 <br>
 
 
 
@@ -48,6 +50,7 @@ https://github.com/ilachill <br>
 
 #### [](#header-4)2019
 
+*	**Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.** H. Chen, I. Chillotti, L. Ren. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/736){:target="_blank"}
 *   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. [<span style="color:#f00909">PDF</span>](https://arxiv.org/abs/1904.02033){:target="_blank"}
 *   	**Multi-Key Homomophic Encryption from TFHE.** H. Chen, I. Chillotti, Y. Song. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/116){:target="_blank"}
 *	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2019_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
