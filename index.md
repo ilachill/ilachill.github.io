@@ -108,41 +108,41 @@ https://orcid.org/0000-0002-0319-4707 <br>
 # [](#header-1)Talks
 
 *   **Multi-Key Homomophic Encryption from TFHE.**
-	*	19 September 2019 - At Crypto seminar Lyon (ENS Lyon, France).
+	*	October 2019 - At COED Day (KU Leuven, Belgium). 
+	*	September 2019 - At Crypto seminar Lyon (ENS Lyon, France).
 
 *   **Improved Bootstrapping for Approximate Homomorphic Encryption.** 
-	*	21 May 2019 - At Eurocrypt 2019 (Darmstadt, Germany).
-	*	29 March 2019 - At Séminaire C2 (Rennes, France). 
-	*	29 November 2018 - At Public Key seminar COSIC (KU Leuven, Belgium).
+	*	May 2019 - At Eurocrypt 2019 (Darmstadt, Germany).
+	*	March 2019 - At Séminaire C2 (Rennes, France). 
+	*	November 2018 - At Public Key seminar COSIC (KU Leuven, Belgium).
 	
 *   **TFHE: Fully Homomorphic Encryption over the Torus.** 
-	*	21 February 2019 - At ISG Research Seminar (Royal Holloway, UK).
-	*	7 February 2019 - At COED seminar (KU Leuven, Belgium).
+	*	February 2019 - At COED seminar (KU Leuven, Belgium) and ISG Research Seminar (Royal Holloway, UK).
 
 *   **Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** 
-	*	17 May 2018 - PhD defence (University of Versailles, France).
+	*	May 2018 - PhD defence (University of Versailles, France).
 
 *   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.**
 	*	May 2018 - At LATCA workshop 2018 (Bertinoro, Italy)
-	*   December 2017 - At Asiacrypt 2017 (Hong Kong, China).
-	*   October 2017 - At Lattice and crypto meetings (ENS Lyon, France).
+	*	December 2017 - At Asiacrypt 2017 (Hong Kong, China).
+	*	October 2017 - At Lattice and crypto meetings (ENS Lyon, France).
 
 *   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** 
-	*   April 2017 - At Séminaire GTBAC (Télécom ParisTech, France) and Journées Codage et Cryptographie 2017 (France).
-	*   February 2017 - At Séminaire de cryptographie (ENS Paris, France).
-	*   January 2017 - At Séminaire de cryptographie (University of Caen, France).
-	*   November 2016 - At Lattice and crypto meetings (ENS Lyon, France) and Séminaires CRYPTO (University of Versailles, France).
+	*	April 2017 - At Séminaire GTBAC (Télécom ParisTech, France) and Journées Codage et Cryptographie 2017 (France).
+	*	February 2017 - At Séminaire de cryptographie (ENS Paris, France).
+	*	January 2017 - At Séminaire de cryptographie (University of Caen, France).
+	*	November 2016 - At Lattice and crypto meetings (ENS Lyon, France) and Séminaires CRYPTO (University of Versailles, France).
 
 *   **An Homomorphic LWE based E-voting Scheme.** 
-	*   April 2016 - At Séminaires CRYPTO (University of Versailles, France).
-	*   February 2016 - At PQCrypto 2016 (Japan). [<span style="color:#f00909">Slides</span>](https://pqcrypto2016.jp/data/Chillotti-Gama_Georgieva_Izabachene-An_Homomorphic_LWE-based_E-voting_Scheme-less-pauses.pdf){:target="_blank"} 
+	*	April 2016 - At Séminaires CRYPTO (University of Versailles, France).
+	*	February 2016 - At PQCrypto 2016 (Japan). [<span style="color:#f00909">Slides</span>](https://pqcrypto2016.jp/data/Chillotti-Gama_Georgieva_Izabachene-An_Homomorphic_LWE-based_E-voting_Scheme-less-pauses.pdf){:target="_blank"} 
 
 *   **Fully Homomorphic Encryption.** 
-	*   September 2017 - At Journée du LMV (University of Versailles, France).
-	*   December 2015 - At Séminaires des jeunes LMV (University of Versailles, France) and Seminari di Matematica (University of Cagliari, Italy).
+	*	September 2017 - At Journée du LMV (University of Versailles, France).
+	*	December 2015 - At Séminaires des jeunes LMV (University of Versailles, France) and Seminari di Matematica (University of Cagliari, Italy).
 
 *   **Safe-Error attacks on the Cloud.** 
-	*   October 2015 - At Journées Codage et Cryptographie 2015 (France).
+	*	October 2015 - At Journées Codage et Cryptographie 2015 (France).
 
 
 
