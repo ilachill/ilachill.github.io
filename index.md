@@ -97,6 +97,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Awards
 
+*	**1st place - Track II - iDASH 2019 competition**, IDASH PRIVACY & SECURITY WORKSHOP 2019 - secure genome analysis competition, Track II on Secure Genotype Imputation using Homomorphic Encryption, together with _Sergiu Carpov_, _Nicolas Gama_ and _Mariya Georgieva_ (_TFHE-Chimera team_).
 * 	**Finalist of the PhD Thesis Prize GDR Sécurité Informatique 2019** for the thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_.
 *	**Best Paper Award at Asiacrypt 2016** for the paper _Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds_.
 
@@ -106,6 +107,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 # [](#header-1)Talks
+
+*   **TFHE-Chimera Team IDash 2019 submission for Track II.**
+	*	October 2019 - At iDASH 2019 workshop (Bloomington, Indiana, USA).
 
 *   **Multi-Key Homomophic Encryption from TFHE.**
 	*	October 2019 - At COED Day (KU Leuven, Belgium). 
@@ -147,6 +151,21 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 
+
+* * *
+
+
+# [](#header-1)Blogposts
+
+#### [](#header-4)COSIC Cryptography Blog
+
+*	October 2019 - IDASH 2019 – KU LEUVEN AMONG THE WINNERS. [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/idash-2019-ku-leuven-among-the-winners/){:target="_blank"}
+*	July 2019 - THE THREE MUSKETEERS OF SECURE COMPUTATION: MPC, FHE AND FE. [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/the-three-musketeers-of-secure-computation-mpc-fhe-and-fe/){:target="_blank"}
+
+
+
+
+
 * * *
 
 
@@ -180,6 +199,10 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 # [](#header-1)Teaching
+
+#### [](#header-4)KU Leuven
+
+*   **Student project supervision**: 1 student M2 (MS.2) Electrical Engineering (2020).
 
 #### [](#header-4)University of Versailles (UVSQ)
 
