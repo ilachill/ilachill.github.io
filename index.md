@@ -108,6 +108,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.**
+	*	November 2019 - At COSIC seminar (KU Leuven, Belgium) and ACM CCS 2019 (London, UK).
+
 *   **TFHE-Chimera Team IDash 2019 submission for Track II.**
 	*	October 2019 - At iDASH 2019 workshop (Bloomington, Indiana, USA).
 
@@ -159,6 +162,8 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)COSIC Cryptography Blog
 
+*	November 2019 - ACM CCS 2019 and workshops
+	*	SPARSE-SECRET LWE AT WAHC’19 (with Ilia Iliashenko) [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/sparse-secret-lwe-at-wahc19/){:target="_blank"}
 *	October 2019 - IDASH 2019 – KU LEUVEN AMONG THE WINNERS. [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/idash-2019-ku-leuven-among-the-winners/){:target="_blank"}
 *	July 2019 - THE THREE MUSKETEERS OF SECURE COMPUTATION: MPC, FHE AND FE. [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/the-three-musketeers-of-secure-computation-mpc-fhe-and-fe/){:target="_blank"}
 
