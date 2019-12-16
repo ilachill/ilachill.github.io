@@ -163,16 +163,16 @@ https://orcid.org/0000-0002-0319-4707 <br>
 #### [](#header-4)COSIC Cryptography Blog
 
 *	December 2019 - Asiacrypt 2019
-	*	ASIACRYPT’19 – NUMERICAL METHOD FOR COMPARISON ON HOMOMORPHICALLY ENCRYPTED NUMBERS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-numerical-method-for-comparison-on-homomorphically-encrypted-numbers/){:target="_blank"}
-	*	ASIACRYPT’19 – ORDER-LWE AND THE HARDNESS OF RING-LWE WITH ENTROPIC SECRETS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-order-lwe-and-the-hardness-of-ring-lwe-with-entropic-secrets/){:target="_blank"}
-	*	ASIACRYPT’19 – A NOVEL CCA ATTACK USING DECRYPTION ERRORS AGAINST LAC [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-a-novel-cca-attack-using-decryption-errors-against-lac/){:target="_blank"}
+	*	Asiacrypt’19 – Numerical method for comparison on homomorphically encrypted numbers [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-numerical-method-for-comparison-on-homomorphically-encrypted-numbers/){:target="_blank"}
+	*	Asiacrypt’19 – Order-LWE and the hardness of Ring-LWE with entropic secrets [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-order-lwe-and-the-hardness-of-ring-lwe-with-entropic-secrets/){:target="_blank"}
+	*	Asiacrypt’19 – A novel CCA attack using decryption errors against LAC [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-a-novel-cca-attack-using-decryption-errors-against-lac/){:target="_blank"}
 *	November 2019 - ACM CCS 2019 and workshops
-	*	PPML’19 – GARBLED NEURAL NETWORKS ARE PRACTICAL [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ppml19-garbled-neural-networks-are-practical/){:target="_blank"}
-	*	CCS’19 – “I DON’T SEE WHY I WOULD EVER WANT TO USE IT”: ANALYZING THE USABILITY OF POPULAR SMARTPHONE PASSWORD MANAGERS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ccs19-i-dont-see-why-i-would-ever-want-to-use-it-analyzing-the-usability-of-popular-smartphone-password-managers/){:target="_blank"}
-	*	CCS’19 – PRACTICAL FULLY SECURE THREE-PARTY COMPUTATION VIA SUBLINEAR DISTRIBUTED ZERO-KNOWLEDGE PROOFS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ccs19-practical-fully-secure-three-party-computation-via-sublinear-distributed-zero-knowledge-proofs-2/){:target="_blank"}
-	*	SPARSE-SECRET LWE AT WAHC’19 (with Ilia Iliashenko) [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/sparse-secret-lwe-at-wahc19/){:target="_blank"}
-*	October 2019 - IDASH 2019 – KU LEUVEN AMONG THE WINNERS. [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/idash-2019-ku-leuven-among-the-winners/){:target="_blank"}
-*	July 2019 - THE THREE MUSKETEERS OF SECURE COMPUTATION: MPC, FHE AND FE. [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/the-three-musketeers-of-secure-computation-mpc-fhe-and-fe/){:target="_blank"}
+	*	PPML’19 – Garbled Neural Networks are practical [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ppml19-garbled-neural-networks-are-practical/){:target="_blank"}
+	*	CCS’19 – “I don't see why I would ever want to use it”: analyzing the usability of popular smartphone password managers [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ccs19-i-dont-see-why-i-would-ever-want-to-use-it-analyzing-the-usability-of-popular-smartphone-password-managers/){:target="_blank"}
+	*	CCS’19 – Practical fully secure three-party computation via sublinear distributed zero-knowledge proofs [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ccs19-practical-fully-secure-three-party-computation-via-sublinear-distributed-zero-knowledge-proofs-2/){:target="_blank"}
+	*	Sparse-secret LWE at WAHC’19 (with Ilia Iliashenko) [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/sparse-secret-lwe-at-wahc19/){:target="_blank"}
+*	October 2019 - IDASH 2019 – KU Leuven among the winners [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/idash-2019-ku-leuven-among-the-winners/){:target="_blank"}
+*	July 2019 - The three musketeers of secure computation: MPC, FHE AND FE [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/the-three-musketeers-of-secure-computation-mpc-fhe-and-fe/){:target="_blank"}
 
 
 
