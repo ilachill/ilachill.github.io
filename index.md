@@ -162,6 +162,10 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)COSIC Cryptography Blog
 
+*	December 2019 - Asiacrypt 2019
+	*	ASIACRYPT’19 – NUMERICAL METHOD FOR COMPARISON ON HOMOMORPHICALLY ENCRYPTED NUMBERS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-numerical-method-for-comparison-on-homomorphically-encrypted-numbers/){:target="_blank"}
+	*	ASIACRYPT’19 – ORDER-LWE AND THE HARDNESS OF RING-LWE WITH ENTROPIC SECRETS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-order-lwe-and-the-hardness-of-ring-lwe-with-entropic-secrets/){:target="_blank"}
+	*	ASIACRYPT’19 – A NOVEL CCA ATTACK USING DECRYPTION ERRORS AGAINST LAC [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-a-novel-cca-attack-using-decryption-errors-against-lac/){:target="_blank"}
 *	November 2019 - ACM CCS 2019 and workshops
 	*	PPML’19 – GARBLED NEURAL NETWORKS ARE PRACTICAL [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ppml19-garbled-neural-networks-are-practical/){:target="_blank"}
 	*	CCS’19 – “I DON’T SEE WHY I WOULD EVER WANT TO USE IT”: ANALYZING THE USABILITY OF POPULAR SMARTPHONE PASSWORD MANAGERS [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/ccs19-i-dont-see-why-i-would-ever-want-to-use-it-analyzing-the-usability-of-popular-smartphone-password-managers/){:target="_blank"}
