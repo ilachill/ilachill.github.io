@@ -115,6 +115,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 	*	October 2019 - At iDASH 2019 workshop (Bloomington, Indiana, USA).
 
 *   **Multi-Key Homomophic Encryption from TFHE.**
+	*	January 2020 - At LACS seminar (University of Luxembourg, Luxembourg).
 	*	October 2019 - At COED Day (KU Leuven, Belgium). 
 	*	September 2019 - At Crypto seminar Lyon (ENS Lyon, France).
 
