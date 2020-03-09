@@ -51,12 +51,16 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Publications
 
+#### [](#header-4)2020
+
+*   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. _USENIX Security Symposium 2020_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/359){:target="_blank"}
+*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2020_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
+
+
 #### [](#header-4)2019
 
 *	**Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.** H. Chen, I. Chillotti, L. Ren. _CCS 2019_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/736){:target="_blank"}
-*   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. [<span style="color:#f00909">PDF</span>](https://arxiv.org/abs/1904.02033){:target="_blank"}
 *   	**Multi-Key Homomophic Encryption from TFHE.** H. Chen, I. Chillotti, Y. Song. _ASIACRYPT 2019_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/116){:target="_blank"}
-*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2019_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
 *   	**Improved Bootstrapping for Approximate Homomorphic Encryption.** H. Chen, I. Chillotti, Y. Song. _EUROCRYPT 2019_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/1043){:target="_blank"}
 
 
