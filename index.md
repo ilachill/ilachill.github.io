@@ -170,7 +170,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)COSIC Cryptography Blog
 
-*	April 2020 - CO6GC: Homomorphic Encryption (part 1): computing with secrets [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/co6gc-homomorphic-encryption-part-1-computing-with-secrets/){:target="_blank"}
+*	April 2020 - CO6GC: Homomorphic Encryption (part 1): computing with secrets (with Charlotte Bonte) [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/co6gc-homomorphic-encryption-part-1-computing-with-secrets/){:target="_blank"}
 *	December 2019 - Asiacrypt 2019
 	*	Asiacrypt’19 – Numerical method for comparison on homomorphically encrypted numbers [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-numerical-method-for-comparison-on-homomorphically-encrypted-numbers/){:target="_blank"}
 	*	Asiacrypt’19 – Order-LWE and the hardness of Ring-LWE with entropic secrets [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/asiacrypt19-order-lwe-and-the-hardness-of-ring-lwe-with-entropic-secrets/){:target="_blank"}
