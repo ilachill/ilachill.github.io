@@ -10,14 +10,15 @@ layout: default
 <img src="Ilaria_Chillotti_BN.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am a Post-Doc in the COSIC research group in KU Leuven (Belgium) and a researcher in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I am a researcher in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
 From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. I defended the PhD thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_ in May 2018. <br>
 I've been also:
 *	An ATER (research and teaching) at University of Versailles (UVSQ, Versailles, France) during the 2017-2018 accademic year.
 *	A research intern in the Cryptography Research group at Microsoft Research (Redmond, WA, USA) during Summer 2018.
-*	A visiting scientist for the [<span style="color:#f00909">Lattices: Algorithms, Complexity, and Cryptography</span>](https://simons.berkeley.edu/programs/lattices2020){:target="_blank"}  program at Simons Institute (Berkeley, CA, USA) in January-February 2020.
+*	A visiting scientist for the [<span style="color:#f00909">Lattices: Algorithms, Complexity, and Cryptography</span>](https://simons.berkeley.edu/programs/lattices2020){:target="_blank"} program at Simons Institute (Berkeley, CA, USA) in January-February 2020.
+* 	A Post-Doc in the COSIC research group in KU Leuven (Leuven, Belgium) from November 2018 and April 2020. 
 
 
 
@@ -31,13 +32,13 @@ I've been also:
 
 # [](#header-1)Contact
 
-ESAT - COSIC, Computer Security and Industrial Cryptography <br>
-Kasteelpark Arenberg 10 - box 2452 <br>
-3001 Leuven, Belgium <br>
-**Office:** B01.26 <br>
-<br>
+[//]: <> (ESAT - COSIC, Computer Security and Industrial Cryptography <br>)
+[//]: <> (Kasteelpark Arenberg 10 - box 2452 <br>)
+[//]: <> (3001 Leuven, Belgium <br>)
+[//]: <> (**Office:** B01.26 <br>)
+
 <span style="color:#f00909">**E-mail:**</span> 
-ilaria.chillotti (at) kuleuven (dot) be <br>
+firstName (dot) familyName (at) zama (dot) ai <br>
 <span style="color:#f00909">**GitHub:**</span> 
 https://github.com/ilachill <br>
 <span style="color:#f00909">**ORCID:**</span> 
@@ -114,6 +115,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 # [](#header-1)Talks
+
+*   **Introduction to FHE and the TFHE Scheme.**
+	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, zoom).
 
 *   **Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.**
 	*	November 2019 - At COSIC seminar (KU Leuven, Belgium) and ACM CCS 2019 (London, UK).
