@@ -115,6 +115,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.**
+	* 	June 2020 - At TPMPC 2020 (Zoom Webinar).
+
 *   **Introduction to FHE and the TFHE Scheme.**
 	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, zoom).
 
