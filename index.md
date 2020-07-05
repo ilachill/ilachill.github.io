@@ -53,6 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2020
 
+*   	**Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.** M. Kim, A. O. Harmanci, J.-P. Bossuat, S. Carpov, J. H. Cheon, I. Chillotti, W. Cho, D. Froelicher, N. Gama, M. Georgieva, S. Hong, J.-P. Hubaux, D. Kim, K. Lauter, Y. Ma, L. Ohno-Machado, H. J Sofia, Y. Son, Y. Song, J. R Troncoso-Pastoriza, X. Jiang. _bioRxiv 2020_. [<span style="color:#f00909">PDF</span>](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1){:target="_blank"}
 *   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. _USENIX Security Symposium 2020_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/359){:target="_blank"}
 *	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2020_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
 
@@ -115,11 +116,14 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Introduction to FHE.**
+	* 	June 2020 - At ETSI Security Week Webinar (webinar).
+
 *   **SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.**
-	* 	June 2020 - At TPMPC 2020 (Zoom Webinar).
+	* 	June 2020 - At TPMPC 2020 (webinar).
 
 *   **Introduction to FHE and the TFHE Scheme.**
-	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, zoom).
+	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar).
 
 *   **Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.**
 	*	November 2019 - At COSIC seminar (KU Leuven, Belgium) and ACM CCS 2019 (London, UK).
