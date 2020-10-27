@@ -223,6 +223,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Programme Committee Member
 
+*	**WAHC 2020** - Virtual Corona Edition, December 15, 2020.
 *	**Crypto 2020** - Santa Barbara, CA, USA, August 16-20, 2020.
 *   	**MathCrypt 2019** - Santa Barbara, CA, USA, August 18, 2019.
 
