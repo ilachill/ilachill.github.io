@@ -53,6 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2020
 
+*   	**New Challenges for Fully Homomorphic Encryption.** I. Chillotti, M. Joye, P. Paillier. _Privacy-preserving Machine Learning (PPML-PriML 2020) NeurIPS 2020 workshop_.
 *   	**Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.** M. Kim, A. O. Harmanci, J.-P. Bossuat, S. Carpov, J. H. Cheon, I. Chillotti, W. Cho, D. Froelicher, N. Gama, M. Georgieva, S. Hong, J.-P. Hubaux, D. Kim, K. Lauter, Y. Ma, L. Ohno-Machado, H. J Sofia, Y. Son, Y. Song, J. R Troncoso-Pastoriza, X. Jiang. _bioRxiv 2020_. [<span style="color:#f00909">PDF</span>](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1){:target="_blank"}
 *   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. _USENIX Security Symposium 2020_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/359){:target="_blank"}
 *	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2020_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
