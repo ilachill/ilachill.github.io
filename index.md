@@ -118,6 +118,12 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **New Challenges for Fully Homomorphic Encryption.** 
+	*	December 2020 - At PPML-PriML 2020 poster session (virtual NeurIPS 2020 workshop).
+
+*   **Introduction to FHE and applications to Machine Learning.**
+	*	December 2020 - At Seminario di Logica e Informatica Teorica (Università Roma Tre, webinar).
+
 *   **Introduction to FHE.**
 	* 	June 2020 - At ETSI Security Week Webinar (webinar).
 
