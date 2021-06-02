@@ -53,6 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2021
 
+*   	**Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.** I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _ePrint_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2021/729){:target="_blank"}
 *   	**Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.** I. Chillotti, M. Joye, P. Paillier. _CSCML 2021_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2021/091){:target="_blank"}
 
 #### [](#header-4)2020
@@ -122,8 +123,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Introduction to FHE, TFHE and Machine Learning applications.**
+	*	May 2021 - At IMDEA seminar (IMDEA Madrid, webinar).
+
 *   **TFHE deep dive.**
-	*	April 2021 - At FHE.org Meetup (webinar).
+	*	April 2021 - At FHE.org Meetup (webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=npoHSR6-oRw){:target="_blank"}
 
 *   **New Challenges for Fully Homomorphic Encryption.** 
 	*	December 2020 - At PPML-PriML 2020 poster session (virtual NeurIPS 2020 workshop).
@@ -138,7 +142,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 	* 	June 2020 - At TPMPC 2020 (webinar).
 
 *   **Introduction to FHE and the TFHE Scheme.**
-	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar).
+	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=28XlccZgiUM){:target="_blank"}
 
 *   **Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.**
 	*	November 2019 - At COSIC seminar (KU Leuven, Belgium) and ACM CCS 2019 (London, UK).
