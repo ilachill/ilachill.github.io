@@ -10,7 +10,7 @@ layout: default
 <img src="Ilaria_Chillotti_BN.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am a researcher in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I am currently Director of Research in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
 From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. I defended the PhD thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_ in May 2018. I've been also:
@@ -123,7 +123,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
+	* 	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
+
 *   **Introduction to FHE, TFHE and Machine Learning applications.**
+	*	June 2021 - At CRC Seminar Series (TII Abu Dhabi, webinar).
 	*	May 2021 - At IMDEA seminar (IMDEA Madrid, webinar).
 
 *   **TFHE deep dive.**
