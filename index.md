@@ -123,6 +123,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.**
+	* 	July 2021 - At CSCML 2021 (Israel, webinar).
+
 *   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
 	* 	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
 
