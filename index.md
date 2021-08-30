@@ -63,7 +63,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 *   	**CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE.** I. Chillotti, M. Joye, D. Ligier, J.-B. Orfila, S. Tap. _Demo paper at WAHC 2020_. [<span style="color:#f00909">PDF</span>](https://homomorphicencryption.org/wp-content/uploads/2020/12/wahc20_demo_damien.pdf){:target="_blank"}
 *   	**New Challenges for Fully Homomorphic Encryption.** I. Chillotti, M. Joye, P. Paillier. _Privacy-preserving Machine Learning (PPML-PriML 2020) NeurIPS 2020 workshop_. [<span style="color:#f00909">PDF</span>](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf){:target="_blank"}
 *   	**SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.** H. Chen, I. Chillotti, Y. Dong, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. _USENIX Security Symposium 2020_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2019/359){:target="_blank"}
-*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2020_ [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
+*	**TFHE: Fast Fully Homomorphic Encryption over the Torus.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _Journal of Cryptology 2020_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2018/421){:target="_blank"}
 
 
 #### [](#header-4)2019
@@ -76,7 +76,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 #### [](#header-4)2018
 
 *	**Scaling Up Secure Nearest Neighbor Search.** H. Chen, I. Chillotti, O. Poburinnaya, I. Razenshteyn, M. S. Riazi. _Privacy Preserving Machine Learning (PPML'18), NeurIPS 2018 Workshop_. 
-*	**Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti, PhD manuscript (Université de Versailles Saint-Quentin-en-Yvelines, Paris-Saclay). [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
+*	**Towards efficient and secure Fully Homomorphic Encryption and cloud computing.** I. Chillotti. _PhD manuscript (Université de Versailles Saint-Quentin-en-Yvelines, Paris-Saclay)_. [<span style="color:#f00909">PDF</span>](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}
 *	**High-Precision Privacy-Preserving Real-Valued Function Evaluation.** C. Boura, I. Chillotti, N. Gama, D. Jetchev, S. Peceny, A. Petric. _Financial Cryptography and Data Security 2018_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2017/1234){:target="_blank"}
 
 
