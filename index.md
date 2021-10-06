@@ -10,7 +10,7 @@ layout: default
 <img src="Ilaria_Chillotti_BN.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am currently Director of Research in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I am currently **Director of Research** in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
 From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. I defended the PhD thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_ in May 2018. I've been also:
@@ -39,7 +39,7 @@ From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Ma
 <span style="color:#f00909">**E-mail:**</span> 
 firstName (dot) familyName (at) zama (dot) ai <br>
 <span style="color:#f00909">**GitHub:**</span> 
-https://github.com/ilachill <br>
+https://github.com/ilachill, https://github.com/ilaria-zama <br>
 <span style="color:#f00909">**ORCID:**</span> 
 https://orcid.org/0000-0002-0319-4707 <br>
 
@@ -53,7 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2021
 
-*   	**Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.** I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _ePrint_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2021/729){:target="_blank"}
+*   	**Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.** I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Asiacrypt 2021_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2021/729){:target="_blank"}
 *   	**Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.** M. Kim, A. O. Harmanci, J.-P. Bossuat, S. Carpov, J. H. Cheon, I. Chillotti, W. Cho, D. Froelicher, N. Gama, M. Georgieva, S. Hong, J.-P. Hubaux, D. Kim, K. Lauter, Y. Ma, L. Ohno-Machado, H. J Sofia, Y. Son, Y. Song, J. R Troncoso-Pastoriza, X. Jiang. _Cell Systems 2021_. [<span style="color:#f00909">PDF</span>](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1){:target="_blank"}
 *   	**Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.** I. Chillotti, M. Joye, P. Paillier. _CSCML 2021_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2021/091){:target="_blank"}
 
@@ -99,6 +99,8 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 # [](#header-1)Open-source development
+
+*   **CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE.** [<span style="color:#f00909">GitHub</span>](https://github.com/zama-ai/concrete){:target="_blank"}
 
 *   **MK-TFHE: Multi-Key Homomophic Encryption from TFHE.** [<span style="color:#f00909">GitHub</span>](https://github.com/ilachill/MK-TFHE){:target="_blank"}
 
@@ -205,6 +207,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Blogposts
 
+#### [](#header-4)Zama Blog
+*	September 2021 - What’s New in Concrete (with Ben Curtis, Damien Ligier, Alexandre Péré) [<span style="color:#f00909">Medium</span>](https://medium.com/zama-ai/whats-new-in-concrete-aa414d17e535){:target="_blank"}, [<span style="color:#f00909">Substack</span>](https://zamafhe.substack.com/p/whats-new-in-concrete){:target="_blank"}
+
 #### [](#header-4)COSIC Cryptography Blog
 
 *	April 2020 - CO6GC: Homomorphic Encryption (part 1): computing with secrets (with Charlotte Bonte) [<span style="color:#f00909">blogpost</span>](https://www.esat.kuleuven.be/cosic/blog/co6gc-homomorphic-encryption-part-1-computing-with-secrets/){:target="_blank"}
@@ -250,6 +255,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Programme Committee Member
 
+*	**PKC 2022** - March 7-11, 2022
 * 	**WAHC 2021** - November 14, 2021
 *	**CFAIL 2021** - August, 14, 2021
 *	**WAHC 2020** - Virtual Corona Edition, December 15, 2020.
@@ -260,7 +266,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 * * *
 
 
-# [](#header-1)Teaching
+# [](#header-1)Teaching and Students
 
 #### [](#header-4)KU Leuven
 
