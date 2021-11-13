@@ -126,6 +126,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Fully Homomorphic Encryption – end-to-end encryption everywhere.**
+	* 	November 2021 - At New Bridges between Mathematics and Data Science: a Scientific Debate (Valladolid, Spain).
+
 *   **Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.**
 	* 	July 2021 - At CSCML 2021 (Israel, webinar).
 
@@ -133,6 +136,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 	* 	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
 
 *   **Introduction to FHE, TFHE and Machine Learning applications.**
+	*	October/November 2021 - At nChain seminar (nChain UK, webinar).
 	*	June 2021 - At CRC Seminar Series (TII Abu Dhabi, webinar).
 	*	May 2021 - At IMDEA seminar (IMDEA Madrid, webinar).
 
