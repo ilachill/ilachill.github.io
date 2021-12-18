@@ -126,14 +126,15 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
+	*	December 2021 - At Asiacrypt 2021 (joint to D. Ligier, J.-B. Orfila and S. Tap). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
+	*	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
+
 *   **Fully Homomorphic Encryption – end-to-end encryption everywhere.**
 	* 	November 2021 - At New Bridges between Mathematics and Data Science: a Scientific Debate (Valladolid, Spain).
 
 *   **Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.**
-	* 	July 2021 - At CSCML 2021 (Israel, webinar).
-
-*   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
-	* 	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
+	* 	July 2021 - At CSCML 2021 (Israel, webinar).	
 
 *   **Introduction to FHE, TFHE and Machine Learning applications.**
 	*	October/November 2021 - At nChain seminar (nChain UK, webinar).
@@ -271,6 +272,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 # [](#header-1)Teaching and Students
+
+#### [](#header-5)Zama
+
+*   **Loris Bergerat**: Intern (2021) and PhD Student (2022 - ) - with D. Ligier and J.-B. Orfila.
+*   **Anas Boudi**: PhD student (2022 - ) - with D. Ligier and J.-B. Orfila.
 
 #### [](#header-4)KU Leuven
 
