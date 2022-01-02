@@ -10,7 +10,7 @@ layout: default
 <img src="Ilaria_Chillotti_BN.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am currently **Director of Research** in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I am currently **Director of Research - Concrete** in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
 From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. I defended the PhD thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_ in May 2018. I've been also:
@@ -266,6 +266,10 @@ https://orcid.org/0000-0002-0319-4707 <br>
 *	**WAHC 2020** - Virtual Corona Edition, December 15, 2020.
 *	**Crypto 2020** - Santa Barbara, CA, USA, August 16-20, 2020.
 *   	**MathCrypt 2019** - Santa Barbara, CA, USA, August 18, 2019.
+
+# [](#header-1)Organization Committee Member
+
+*	**FHE.org 2022** - Affiliated event to EUROCRYPT 2022, Trondheim (Norway), May 29, 2022. [<span style="color:#f00909">webpage</span>](https://fhe.org/conference/fhe-org-conference-2022){:target="_blank"}
 
 
 * * *
