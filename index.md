@@ -127,6 +127,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 # [](#header-1)Talks
 
 *   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
+	*	February 2022 - At CryptoExperts seminar (Paris, France, webinar).
 	*	December 2021 - At Asiacrypt 2021 (joint to D. Ligier, J.-B. Orfila and S. Tap). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
 	*	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
 
