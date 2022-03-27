@@ -7,7 +7,7 @@ layout: default
 ---
 
 
-<img src="Ilaria_Chillotti_BN.jpg" width="170" 
+<img src="Ilaria_BW.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
 I am currently **Director of Research - Concrete** in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
