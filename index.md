@@ -7,10 +7,10 @@ layout: default
 ---
 
 
-<img src="Ilaria_BW.jpg" width="170" 
-style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
+<img src="Ilaria_BW.jpg" width="180" 
+style="float: left; margin-right: 10px; margin-bottom: 10px; border: solid black;">
 
-I am currently **Director of Research - Concrete** in Cryptography at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
+I am currently **Director of Research of the Concrete Framework division** at [<span style="color:#f00909">Zama</span>](https://zama.ai/){:target="_blank"}. My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
 
 I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
 From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles, under the supervision of Louis Goubin and Nicolas Gama. I defended the PhD thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_ in May 2018. I've been also:
@@ -126,6 +126,15 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Introduction to FHE, TFHE and Machine Learning applications.**
+	*	April 2022 - At Journées C2 2022 (Hendaye, France).
+	*	October/November 2021 - At nChain seminar (nChain UK, webinar).
+	*	June 2021 - At CRC Seminar Series (TII Abu Dhabi, webinar).
+	*	May 2021 - At IMDEA seminar (IMDEA Madrid, webinar).
+
+*   **Fully Homomorphic Encryption.**
+	*	April 2022 - At ANSSI seminar (Paris, France, webinar).
+
 *   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
 	*	February 2022 - At CryptoExperts seminar (Paris, France, webinar).
 	*	December 2021 - At Asiacrypt 2021 (joint to D. Ligier, J.-B. Orfila and S. Tap). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
@@ -136,11 +145,6 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 *   **Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.**
 	* 	July 2021 - At CSCML 2021 (Israel, webinar).	
-
-*   **Introduction to FHE, TFHE and Machine Learning applications.**
-	*	October/November 2021 - At nChain seminar (nChain UK, webinar).
-	*	June 2021 - At CRC Seminar Series (TII Abu Dhabi, webinar).
-	*	May 2021 - At IMDEA seminar (IMDEA Madrid, webinar).
 
 *   **TFHE deep dive.**
 	*	April 2021 - At FHE.org Meetup (webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=npoHSR6-oRw){:target="_blank"}
