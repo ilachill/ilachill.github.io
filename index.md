@@ -222,6 +222,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 *	May 2022 - TFHE Deep Dive
 	*	Part I - Ciphertext types [<span style="color:#f00909">blogpost</span>](https://www.zama.ai/post/tfhe-deep-dive-part-1){:target="_blank"}
 	*	Part II - Encodings and linear leveled operations [<span style="color:#f00909">blogpost</span>](https://www.zama.ai/post/tfhe-deep-dive-part-2){:target="_blank"}
+	*	Part III - Key switching and leveled multiplications [<span style="color:#f00909">blogpost</span>](https://www.zama.ai/post/tfhe-deep-dive-part-3){:target="_blank"}
 *	September 2021 - What’s New in Concrete (with Ben Curtis, Damien Ligier, Alexandre Péré) [<span style="color:#f00909">Medium</span>](https://medium.com/zama-ai/whats-new-in-concrete-aa414d17e535){:target="_blank"}, [<span style="color:#f00909">Substack</span>](https://zamafhe.substack.com/p/whats-new-in-concrete){:target="_blank"}
 
 #### [](#header-4)COSIC Cryptography Blog
