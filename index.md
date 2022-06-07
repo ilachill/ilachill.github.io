@@ -51,6 +51,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Publications
 
+#### [](#header-4)2022
+
+*   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _IACR Cryptology ePrint Archive 2022_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
+
+
 #### [](#header-4)2021
 
 *   	**Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.** I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Asiacrypt 2021_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2021/729){:target="_blank"}
