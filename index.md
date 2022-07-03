@@ -53,7 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2022
 
-*   	**Scooby: Improved Multi-Party Homomorphic Secret Sharing Based on FHE.** I. Chillotti, E. Orsini, P. Scholl, N. Smart, B. Van Leeuwen.. _To appear in SCN 2022_.
+*   	**Scooby: Improved Multi-Party Homomorphic Secret Sharing Based on FHE.** I. Chillotti, E. Orsini, P. Scholl, N. Smart, B. Van Leeuwen.. _SCN 2022_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/862){:target="_blank"}
 *   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _IACR Cryptology ePrint Archive 2022_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
 
 
