@@ -256,6 +256,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)International schools
 
+*   **Introduction to FHE and the TFHE scheme.**
+	*   July 2022 - At Contemporary algebraic and geometric techniques in coding theory and cryptography (virtual summer school).
+
 *   **Fully homomorphic encryption.** 
 	*   July 2016 - At CryptoBG International Summer School 2016 (Bulgaria).
 
