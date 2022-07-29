@@ -132,6 +132,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Introduction to FHE and the TFHE scheme.**
+	*	July 2022 - At Workshop on Foundations and Applications of Lattice-based Cryptography (ICMS, Edinburgh).
+
 *   **Introduction to FHE, TFHE and Machine Learning applications.**
 	*	April 2022 - At Journées C2 2022 (Hendaye, France).
 	*	October/November 2021 - At nChain seminar (nChain UK, webinar).
