@@ -132,6 +132,13 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Fully Homomorphic Encryption.**
+	*	September 2022 - At SantaCrypt 2022 (Prague, Czech Republic).
+	*	April 2022 - At ANSSI seminar (Paris, France, webinar).
+
+*   **An overview of the Concrete Framework.** 
+	*	September 2022 - At 5th HomomorphicEncryption.org Standards Meeting (Geneva, Switzerland) - joint to Damien Ligier.
+
 *   **Introduction to FHE and the TFHE scheme.**
 	*	July 2022 - At Workshop on Foundations and Applications of Lattice-based Cryptography (ICMS, Edinburgh).
 
@@ -140,9 +147,6 @@ https://orcid.org/0000-0002-0319-4707 <br>
 	*	October/November 2021 - At nChain seminar (nChain UK, webinar).
 	*	June 2021 - At CRC Seminar Series (TII Abu Dhabi, webinar).
 	*	May 2021 - At IMDEA seminar (IMDEA Madrid, webinar).
-
-*   **Fully Homomorphic Encryption.**
-	*	April 2022 - At ANSSI seminar (Paris, France, webinar).
 
 *   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
 	*	February 2022 - At CryptoExperts seminar (Paris, France, webinar).
@@ -283,10 +287,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Programme Committee Member
 
-*	**Asiacrypt 2022** - December 5-9, 2022
-*	**PKC 2022** - March 7-11, 2022
-* 	**WAHC 2021** - November 14, 2021
-*	**CFAIL 2021** - August, 14, 2021
+*	**RWC 2023** - Tokyo, Japan, March 27-29 2023.
+*	**Asiacrypt 2022** - December 5-9, 2022.
+*	**PKC 2022** - March 7-11, 2022.
+* 	**WAHC 2021** - November 14, 2021.
+*	**CFAIL 2021** - August, 14, 2021.
 *	**WAHC 2020** - Virtual Corona Edition, December 15, 2020.
 *	**Crypto 2020** - Santa Barbara, CA, USA, August 16-20, 2020.
 *   	**MathCrypt 2019** - Santa Barbara, CA, USA, August 18, 2019.
