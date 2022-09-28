@@ -133,7 +133,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 # [](#header-1)Talks
 
 *   **Fully Homomorphic Encryption.**
-	*	September 2022 - At SantaCrypt 2022 (Prague, Czech Republic).
+	*	September 2022 - At SantaCrypt 2022 (Prague, Czech Republic) and at Summer School 2022: Graz Security Week (Graz, Austria).
 	*	April 2022 - At ANSSI seminar (Paris, France, webinar).
 
 *   **An overview of the Concrete Framework.** 
