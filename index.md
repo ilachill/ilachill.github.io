@@ -301,6 +301,10 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 *	**FHE.org 2022** - Affiliated event to EUROCRYPT 2022, Trondheim (Norway), May 29, 2022. [<span style="color:#f00909">webpage</span>](https://fhe.org/conference/fhe-org-conference-2022){:target="_blank"}
 
+# [](#header-1)Editorial Board
+
+*	**Journal of Mathematical Cryptology** - De Gruyter, 2023. [<span style="color:#f00909">webpage</span>](https://www.degruyter.com/journal/key/jmc/html?lang=en){:target="_blank"}
+
 
 * * *
 
