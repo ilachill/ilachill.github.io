@@ -132,6 +132,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **An update on the Concrete Framework.** 
+	*	March 2023 - At 6th HomomorphicEncryption.org Standards Meeting (Seoul, Korea) - joint to Damien Ligier.
+
 *   **Introduction to FHE and the TFHE scheme.**
 	*	February 2023 - At EECS 598-09 Privacy-Enhanced Technologies (PETs) by Todd Austin - Electrical Engineering and Computer Science - The University of Michigan (invited lecture).
 	*	July 2022 - At Workshop on Foundations and Applications of Lattice-based Cryptography (ICMS, Edinburgh).
