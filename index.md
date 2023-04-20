@@ -51,10 +51,14 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Publications
 
+#### [](#header-4)2023
+
+*   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Journal of Cryptology 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
+
+
 #### [](#header-4)2022
 
 *   	**Scooby: Improved Multi-Party Homomorphic Secret Sharing Based on FHE.** I. Chillotti, E. Orsini, P. Scholl, N. Smart, B. Van Leeuwen. _SCN 2022_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/862){:target="_blank"}
-*   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _IACR Cryptology ePrint Archive 2022_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
 
 
 #### [](#header-4)2021
@@ -133,7 +137,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 # [](#header-1)Talks
 
 *   **An update on the Concrete Framework.** 
-	*	March 2023 - At 6th HomomorphicEncryption.org Standards Meeting (Seoul, Korea) - joint to Damien Ligier.
+	*	March 2023 - At 6th HomomorphicEncryption.org Standards Meeting (Seoul, South Korea) - joint to Damien Ligier.
 
 *   **Introduction to FHE and the TFHE scheme.**
 	*	February 2023 - At EECS 598-09 Privacy-Enhanced Technologies (PETs) by Todd Austin - Electrical Engineering and Computer Science - The University of Michigan (invited lecture).
@@ -294,15 +298,16 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Programme Committee Member
 
-*	**FHE.org 2023** - Tokyo, Japan, March 26 2023.
-*	**RWC 2023** - Tokyo, Japan, March 27-29 2023.
+*	**CIFRIS23** - Rome (Italy), December 14-15, 2023.
+*	**FHE.org 2023** - Tokyo (Japan), March 26, 2023.
+*	**RWC 2023** - Tokyo (Japan), March 27-29, 2023.
 *	**Asiacrypt 2022** - December 5-9, 2022.
 *	**PKC 2022** - March 7-11, 2022.
 * 	**WAHC 2021** - November 14, 2021.
 *	**CFAIL 2021** - August, 14, 2021.
 *	**WAHC 2020** - Virtual Corona Edition, December 15, 2020.
-*	**Crypto 2020** - Santa Barbara, CA, USA, August 16-20, 2020.
-*   	**MathCrypt 2019** - Santa Barbara, CA, USA, August 18, 2019.
+*	**Crypto 2020** - Santa Barbara, CA (USA), August 16-20, 2020.
+*   	**MathCrypt 2019** - Santa Barbara, CA (USA), August 18, 2019.
 
 # [](#header-1)Organization Committee Member
 
