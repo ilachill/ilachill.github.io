@@ -287,10 +287,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 * * *
 
 
-# [](#header-1)Vulgarization
+# [](#header-1)Vulgarization and Interviews
 
-*   **Cryptography.** 
-	*   April 2016 - At Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France).
+*	May 2022 - **[<span style="color:#f00909">Interview for the Blog Docteurs SPI</span>](https://www.docteurs-spi.org/post/ilaria-chillotti){:target="_blank"}.
+*	January 2022 - **[<span style="color:#f00909">Les promesses du chiffrement homomorphe pour traiter les données privées</span>](https://www.lemonde.fr/sciences/article/2023/01/04/les-promesses-du-chiffrement-homomorphe-pour-traiter-les-donnees-privees_6156530_1650684.html){:target="_blank"}** by Clémentine Laurens, for _Le Monde_.
+*	April 2016 - **Cryptography**, at Ateliers BD Sciences (Exploradôme Vitry-sur-Seine, France).
 
 
 * * *
