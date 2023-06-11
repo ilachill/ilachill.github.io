@@ -136,12 +136,15 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **Parameter Optimization & Larger Precision for (T)FHE.** 
+	*	June 2023 - At London Crypto Day 2023 (Royal Holloway, Egham, UK).
+
 *   **An update on the Concrete Framework.** 
 	*	March 2023 - At 6th HomomorphicEncryption.org Standards Meeting (Seoul, South Korea) - joint to Damien Ligier.
 
 *   **Introduction to FHE and the TFHE scheme.**
-	*	February 2023 - At EECS 598-09 Privacy-Enhanced Technologies (PETs) by Todd Austin - Electrical Engineering and Computer Science - The University of Michigan (invited lecture).
-	*	July 2022 - At Workshop on Foundations and Applications of Lattice-based Cryptography (ICMS, Edinburgh).
+	*	February 2023 - At EECS 598-09 Privacy-Enhanced Technologies (PETs) by Todd Austin - Electrical Engineering and Computer Science - The University of Michigan (remote invited lecture).
+	*	July 2022 - At Workshop on Foundations and Applications of Lattice-based Cryptography (ICMS, Edinburgh, UK).
 
 *   **Fully Homomorphic Encryption.**
 	*	September 2022 - At SantaCrypt 2022 (Prague, Czech Republic) and at Summer School 2022: Graz Security Week (Graz, Austria).
