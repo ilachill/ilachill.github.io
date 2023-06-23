@@ -53,6 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2023
 
+*   	**Faster Secret Keys for (T)FHE.** L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, A. Roux-Langlois, S. Tap. _IACR Cryptology ePrint Archive 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2023/979){:target="_blank"}
 *   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Journal of Cryptology 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
 
 
