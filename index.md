@@ -138,6 +138,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 # [](#header-1)Talks
 
 *   **Parameter Optimization & Larger Precision for (T)FHE.** 
+	*	June 2023 - At Journées Nationales 2023 du GDR Sécurité Informatique (Campus Cyber, Paris, France) - joint to Damien Ligier.
 	*	June 2023 - At London Crypto Day 2023 (Royal Holloway, Egham, UK).
 
 *   **An update on the Concrete Framework.** 
