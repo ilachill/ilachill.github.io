@@ -237,6 +237,11 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 
 
+## [](#header-2)Panels
+
+*	August 2023 - **Privacy Preserving AI** at GHTC 2023, affiliated event at Crypto 2023 (Santa Barbara, California, USA).
+
+
 
 * * *
 
