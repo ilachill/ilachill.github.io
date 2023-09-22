@@ -137,6 +137,9 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Talks
 
+*   **An Overview of FHE, TFHE and Concrete Framework.**
+	*	September 2023 - At Cryptography and Coding Theory (Perugia, Italy) - joint to Damien Ligier.	   	
+
 *   **Parameter Optimization & Larger Precision for (T)FHE.** 
 	*	June 2023 - At Journées Nationales 2023 du GDR Sécurité Informatique (Campus Cyber, Paris, France) - joint to Damien Ligier.
 	*	June 2023 - At London Crypto Day 2023 (Royal Holloway, Egham, UK).
