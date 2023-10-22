@@ -53,6 +53,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-4)2023
 
+*   	**Scooby: Improved Multi-Party Homomorphic Secret Sharing Based on FHE (long version).** I. Chillotti, E. Orsini, P. Scholl, B. Van Leeuwen. _I & C 2023 (to appear)_.
 *   	**Faster Secret Keys for (T)FHE.** L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, A. Roux-Langlois, S. Tap. _IACR Cryptology ePrint Archive 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2023/979){:target="_blank"}
 *   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Journal of Cryptology 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
 
@@ -326,6 +327,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Organization Committee Member
 
+*	**General Chair - FHE.org 2024** - Affiliated event to Real World Crypto 2024, Toronto (Canada), March 24, 2024. [<span style="color:#f00909">webpage</span>](https://fhe.org/conferences/conference-2024/){:target="_blank"}
 *	**FHE.org 2022** - Affiliated event to EUROCRYPT 2022, Trondheim (Norway), May 29, 2022. [<span style="color:#f00909">webpage</span>](https://fhe.org/conference/fhe-org-conference-2022){:target="_blank"}
 
 # [](#header-1)Editorial Board
