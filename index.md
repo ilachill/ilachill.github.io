@@ -40,7 +40,7 @@ From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Ma
 [//]: <span style="color:#f00909">**E-mail:**</span> 
 [//]: firstName (dot) familyName (at) zama (dot) ai <br>
 <span style="color:#f00909">**LinkedIn:**</span> 
-[<span style="color:#f00909">Ilaria Chillotti</span>](linkedin.com/in/ilaria-chillotti-a5703320a){:target="_blank"} <br>
+[<span style="color:#f00909">Ilaria Chillotti</span>](https://www.linkedin.com/in/ilaria-chillotti-a5703320a/){:target="_blank"} <br>
 <span style="color:#f00909">**GitHub:**</span> 
 https://github.com/ilachill, https://github.com/ilaria-zama <br>
 <span style="color:#f00909">**ORCID:**</span> 
