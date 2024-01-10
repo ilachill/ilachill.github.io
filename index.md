@@ -330,7 +330,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 # [](#header-1)Organization Committee Member
 
-*	**General Chair - FHE.org 2024** - Affiliated event to Real World Crypto 2024, Toronto (Canada), March 24, 2024. [<span style="color:#f00909">webpage</span>](https://fhe.org/conferences/conference-2024/){:target="_blank"}
+*	**General Chair (temporary) - FHE.org 2024** - Affiliated event to Real World Crypto 2024, Toronto (Canada), March 24, 2024. [<span style="color:#f00909">webpage</span>](https://fhe.org/conferences/conference-2024/){:target="_blank"}
 *	**FHE.org 2022** - Affiliated event to EUROCRYPT 2022, Trondheim (Norway), May 29, 2022. [<span style="color:#f00909">webpage</span>](https://fhe.org/conference/fhe-org-conference-2022){:target="_blank"}
 
 # [](#header-1)Editorial Board
@@ -346,7 +346,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 #### [](#header-5)Zama
 
 *   **Loris Bergerat**: Intern (2021) and PhD Student (2022 - ) - with D. Ligier and J.-B. Orfila.
-*   **Anas Boudi**: PhD student (2022 - ) - with D. Ligier and J.-B. Orfila.
+[//]: *   **Anas Boudi**: PhD student (2022 - ) - with D. Ligier and J.-B. Orfila.
 
 #### [](#header-4)KU Leuven
 
