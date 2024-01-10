@@ -345,8 +345,8 @@ https://orcid.org/0000-0002-0319-4707 <br>
 
 #### [](#header-5)Zama
 
-*   **Loris Bergerat**: Intern (2021) and PhD Student (2022 - ) - with D. Ligier and J.-B. Orfila.
-[//]: *   **Anas Boudi**: PhD student (2022 - ) - with D. Ligier and J.-B. Orfila.
+*   **Loris Bergerat**: Intern (2021) and PhD Student (2022 - ) - with D. Ligier and J.-B. Orfila
+*   **Anas Boudi**: PhD student (2022 - ) - with D. Ligier and J.-B. Orfila.
 
 #### [](#header-4)KU Leuven
 
