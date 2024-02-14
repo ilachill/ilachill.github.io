@@ -7,7 +7,7 @@ layout: default
 ---
 
 
-<img src="Ilaria_BW.jpg" width="180" 
+<img src="Ilaria_2024_BW.jpg" width="180" 
 style="float: left; margin-right: 10px; margin-bottom: 10px; border: solid black;">
 
 My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
@@ -52,13 +52,19 @@ https://orcid.org/0000-0002-0319-4707 <br>
 * * *
 
 
-# [](#header-1)Publications
+# [](#header-1)Publications\
+
+#### [](#header-4)2024
+
+*   	**Security Guidelines for Implementing Homomorphic Encryption.** , R. Cammarota, J.H. Cheon, I. Chillotti, B.R. Curtis, W. Dai, H. Gong, E. Hales, D. Kim, B. Kumara, C. Lee, X. Lu, C. Maple, A. Pedrouzo-Ulloa, R. Player, L.A. Ruiz Lopez, Y. Song, D. Yhee, B. Yildiz. _Accepted talk at FHE.org 2024_.
+*   	**TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability.** , I. Chillotti, S. El Kazdadi, D. Ligier, A. Meyre, T. Montaigu, J.-B. Orfila, S. Tap. _Accepted talk at FHE.org 2024_.
+
 
 #### [](#header-4)2023
 
 *   	**Scooby: Improved Multi-Party Homomorphic Secret Sharing Based on FHE (long version).** I. Chillotti, E. Orsini, P. Scholl, B. Van Leeuwen. _I & C 2023 (to appear)_.
 *   	**Faster Secret Keys for (T)FHE.** L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, A. Roux-Langlois, S. Tap. _IACR Cryptology ePrint Archive 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2023/979){:target="_blank"}
-*   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Journal of Cryptology 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
+*   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Journal of Cryptology 2023 & accepted talk at FHE.org 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
 
 
 #### [](#header-4)2022
