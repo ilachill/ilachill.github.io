@@ -52,7 +52,7 @@ https://orcid.org/0000-0002-0319-4707 <br>
 * * *
 
 
-# [](#header-1)Publications\
+# [](#header-1)Publications
 
 #### [](#header-4)2024
 
