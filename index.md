@@ -7,7 +7,7 @@ layout: default
 ---
 
 
-<img src="Ilaria_2024_BW.jpg" width="180" 
+<img src="Ilaria_2024_BW.jpeg" width="180" 
 style="float: left; margin-right: 10px; margin-bottom: 10px; border: solid black;">
 
 My main research subjects are <span style="color:#f00909">**Fully Homomorphic Encryption**</span>, <span style="color:#f00909">**Multi-Party Computation**</span> and <span style="color:#f00909">**Cloud Computing**</span>. <br> 
