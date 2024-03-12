@@ -6,6 +6,14 @@
 layout: default
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+| [**Publications**](./publications.html)       | page          | page    |
+
 
 <img src="Ilaria_2024_BW.jpeg" width="180" 
 style="float: left; margin-right: 10px; margin-bottom: 10px; border: solid black;">
