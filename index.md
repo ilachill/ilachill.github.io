@@ -12,7 +12,9 @@ td, th {
 }
 </style>
 
-| [**Publications**](./publications.html)       | page          | page    |
+| [<span style="color:#f00909">**Publications**</span>](./publications.html)  | [<span style="color:#f00909">**Open-source development**</span>]() | [<span style="color:#f00909">**Awards**</span>]() |
+| [<span style="color:#f00909">**Talks, Panels & Schools**</span>]()  | [<span style="color:#f00909">**Blogposts**</span>]() | [<span style="color:#f00909">**Vulgarization**</span>]() |
+| [<span style="color:#f00909">**Committees**</span>]()  | [<span style="color:#f00909">**Teaching**</span>]() | |
 
 
 <img src="Ilaria_2024_BW.jpeg" width="180" 
