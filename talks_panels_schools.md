@@ -2,11 +2,12 @@
 layout: default
 ---
 
-[<span style="color:#f00909">**back**</span>](./)
+[<span style="color:#f00909">**HOME**</span>](./)
+
+* * *
 
 # Talks, Panels & Schools
 
-* * *
 
 ## [](#header-2)Talks
 
@@ -119,9 +120,6 @@ layout: default
 
 
 
-* * *
-
-
 ## [](#header-2)International schools
 
 *   **TFHE and applications.**
@@ -139,7 +137,4 @@ layout: default
 
 * * *
 
-
-
-
-[<span style="color:#f00909">**back**</span>](./)
+[<span style="color:#f00909">**HOME**</span>](./)
