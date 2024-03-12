@@ -12,15 +12,12 @@ table, td, th {
    text-align: center;
 }
 </style>
-
-<center>
 	
 | [<span style="color:#f00909">**Publications**</span>](./publications.html)  | [<span style="color:#f00909">**Open-source development**</span>](./open-source_development.md) | 
 | [<span style="color:#f00909">**Awards**</span>](./awards.md) | [<span style="color:#f00909">**Talks, Panels & Schools**</span>](./talks_panels_schools.md)  | 
 | [<span style="color:#f00909">**Blogposts**</span>]() | [<span style="color:#f00909">**Vulgarization**</span>]() |
 | [<span style="color:#f00909">**Committees**</span>]()  | [<span style="color:#f00909">**Teaching**</span>]() |
 
-</center>
 
 <img src="Ilaria_2024_BW.jpeg" width="180" 
 style="float: left; margin-right: 10px; margin-bottom: 10px; border: solid black;">
