@@ -2,7 +2,9 @@
 layout: default
 ---
 
-[<span style="color:#f00909">**back**</span>](./)
+[<span style="color:#f00909">**HOME**</span>](./)
+
+* * * 
 
 # Publications
 
@@ -65,5 +67,5 @@ layout: default
 *   	**A homomorphic LWE based e-voting scheme.** I. Chillotti, N. Gama, M. Georgieva, M. Izabachène. _PQCrypto 2016_. [<span style="color:#f00909">PDF</span>](/papers/CGGI16a-An_homomorphic_LWE_based_E-voting_Scheme.pdf){:target="_blank"}.
 
 
-
-[<span style="color:#f00909">**back**</span>](./)
+* * *
+[<span style="color:#f00909">**HOME**</span>](./)
