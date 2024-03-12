@@ -11,14 +11,11 @@ layout: default
 table, td, th {
    border: none!important;
    text-align: center;
-   align: center;
 }
 </style>
 
-| [<span style="color:#f00909">**Publications**</span>](./publications.html)  | [<span style="color:#f00909">**Open-source development**</span>](./open-source_development.md) | 
-| [<span style="color:#f00909">**Awards**</span>](./awards.md) | [<span style="color:#f00909">**Talks, Panels & Schools**</span>](./talks_panels_schools.md)  | 
-| [<span style="color:#f00909">**Blogposts**</span>](./blogposts.md) | [<span style="color:#f00909">**Vulgarization**</span>](vulgarization.md) |
-| [<span style="color:#f00909">**Committees**</span>]()  | [<span style="color:#f00909">**Teaching**</span>]() |
+| [<span style="color:#f00909">**Publications**</span>](./publications.html)  | [<span style="color:#f00909">**Open-source development**</span>](./open-source_development.md) | [<span style="color:#f00909">**Blogposts**</span>](./blogposts.md) | [<span style="color:#f00909">**Vulgarization**</span>](vulgarization.md) |
+| [<span style="color:#f00909">**Awards**</span>](./awards.md) | [<span style="color:#f00909">**Talks, Panels & Schools**</span>](./talks_panels_schools.md)  | [<span style="color:#f00909">**Committees**</span>](./committees.md)  | [<span style="color:#f00909">**Teaching**</span>]() |
 
 
 
