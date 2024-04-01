@@ -10,7 +10,7 @@ layout: default
 
 #### [](#header-4)2024
 
-*   	**Security Guidelines for Implementing Homomorphic Encryption.** , R. Cammarota, J.H. Cheon, I. Chillotti, B.R. Curtis, W. Dai, H. Gong, E. Hales, D. Kim, B. Kumara, C. Lee, X. Lu, C. Maple, A. Pedrouzo-Ulloa, R. Player, L.A. Ruiz Lopez, Y. Song, D. Yhee, B. Yildiz. _Accepted talk at FHE.org 2024_.
+*   	**Security Guidelines for Implementing Homomorphic Encryption.** , R. Cammarota, J.H. Cheon, I. Chillotti, B.R. Curtis, W. Dai, H. Gong, E. Hales, D. Kim, B. Kumara, C. Lee, X. Lu, C. Maple, A. Pedrouzo-Ulloa, R. Player, L.A. Ruiz Lopez, Y. Song, D. Yhee, B. Yildiz. _IACR Cryptology ePrint Archive 2024 & accepted talk at FHE.org 2024_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2024/463){:target="_blank"}
 *   	**TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability.** , I. Chillotti, S. El Kazdadi, D. Ligier, A. Meyre, T. Montaigu, J.-B. Orfila, S. Tap. _Accepted talk at FHE.org 2024_.
 
 
