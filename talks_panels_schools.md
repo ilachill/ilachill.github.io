@@ -12,9 +12,9 @@ layout: default
 ## [](#header-2)Talks
 
 *   **Fully Homomorphic Encryption - Introduction and new directions.**
-	* 	August 2024 - At Math PQC 2024, Budapest (Hungary).  
- 	* 	July 2024 - At Normandie 2024, Caen (France).  
-  	* 	June 2024 - At 3MI Labs, Leuven (Belgium).  
+	* 	August 2024 - At Math PQC 2024, Budapest (Hungary). 
+ 	* 	July 2024 - At Normandie 2024, Caen (France). 
+  	* 	June 2024 - At 3MI Labs, Leuven (Belgium). 
 
 *   **Fully Homomorphic Encryption - ML Applications and New Directions.**
 	* 	July 2024 - At PET Meetup, Seoul (Korea) - with Damien Ligier. 
