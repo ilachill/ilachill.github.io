@@ -10,8 +10,8 @@ layout: default
 
 #### [](#header-4)Zama
 
-*   **Loris Bergerat**: Intern (2021) and PhD Student (2022 - ) - with D. Ligier and J.-B. Orfila
-*   **Anas Boudi**: PhD student (2022 - ) - with D. Ligier and J.-B. Orfila.
+*   **Loris Bergerat**: Intern (2021) and PhD Student (2022 - 2023) - with D. Ligier and J.-B. Orfila
+*   **Anas Boudi**: PhD student (2022 - 2023) - with D. Ligier and J.-B. Orfila.
 
 #### [](#header-4)KU Leuven
 
