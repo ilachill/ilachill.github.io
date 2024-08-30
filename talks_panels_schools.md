@@ -11,15 +11,23 @@ layout: default
 
 ## [](#header-2)Talks
 
+*   **Fully Homomorphic Encryption - Introduction and new directions.**
+	* August 2024 - At Math PQC 2024, Budapest (Hungary).
+ 	* July 2024 - At Normandie 2024, Caen (France).
+  	* June 2024 - At 3MI Labs, Leuven (Belgium).
+
+*   **Fully Homomorphic Encryption - ML Applications and New Directions.**
+	* July 2024 - At PET Meetup, Seoul (Korea) - with Damien Ligier.
+
 *   **An Overview of FHE, TFHE and Concrete Framework.**
-	*	September 2023 - At Cryptography and Coding Theory (Perugia, Italy) - joint to Damien Ligier.	   	
+	*	September 2023 - At Cryptography and Coding Theory (Perugia, Italy) - with Damien Ligier.	   	
 
 *   **Parameter Optimization & Larger Precision for (T)FHE.** 
-	*	June 2023 - At Journées Nationales 2023 du GDR Sécurité Informatique (Campus Cyber, Paris, France) - joint to Damien Ligier.
+	*	June 2023 - At Journées Nationales 2023 du GDR Sécurité Informatique (Campus Cyber, Paris, France) - with Damien Ligier.
 	*	June 2023 - At London Crypto Day 2023 (Royal Holloway, Egham, UK).
 
 *   **An update on the Concrete Framework.** 
-	*	March 2023 - At 6th HomomorphicEncryption.org Standards Meeting (Seoul, South Korea) - joint to Damien Ligier.
+	*	March 2023 - At 6th HomomorphicEncryption.org Standards Meeting (Seoul, South Korea) - with Damien Ligier.
 
 *   **Introduction to FHE and the TFHE scheme.**
 	*	February 2023 - At EECS 598-09 Privacy-Enhanced Technologies (PETs) by Todd Austin - Electrical Engineering and Computer Science - The University of Michigan (remote invited lecture).
@@ -30,7 +38,7 @@ layout: default
 	*	April 2022 - At ANSSI seminar (Paris, France, webinar).
 
 *   **An overview of the Concrete Framework.** 
-	*	September 2022 - At 5th HomomorphicEncryption.org Standards Meeting (Geneva, Switzerland) - joint to Damien Ligier.
+	*	September 2022 - At 5th HomomorphicEncryption.org Standards Meeting (Geneva, Switzerland) - with Damien Ligier.
 
 *   **Introduction to FHE, TFHE and Machine Learning applications.**
 	*	April 2022 - At Journées C2 2022 (Hendaye, France).
@@ -40,7 +48,7 @@ layout: default
 
 *   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
 	*	February 2022 - At CryptoExperts seminar (Paris, France, webinar).
-	*	December 2021 - At Asiacrypt 2021 (joint to D. Ligier, J.-B. Orfila and S. Tap). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
+	*	December 2021 - At Asiacrypt 2021 - with D. Ligier, J.-B. Orfila and S. Tap. [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
 	*	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
 
 *   **Fully Homomorphic Encryption – end-to-end encryption everywhere.**
@@ -90,8 +98,8 @@ layout: default
 	*	May 2018 - PhD defence (University of Versailles, France).
 
 *   **Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE.**
-	*	May 2018 - At LATCA workshop 2018 (Bertinoro, Italy)
-	*	December 2017 - At Asiacrypt 2017 (Hong Kong, China).
+	*	May 2018 - At LATCA workshop 2018 (Bertinoro, Italy).
+	*	December 2017 - At Asiacrypt 2017 (Hong Kong, China) - with Mariya Georgieva.
 	*	October 2017 - At Lattice and crypto meetings (ENS Lyon, France).
 
 *   **Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.** 
