@@ -6,7 +6,7 @@ layout: default
 
 * * * 
 
-# Open-source development
+# Contribution to open-source projects
 
 *   **CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE.** [<span style="color:#f00909">GitHub</span>](https://github.com/zama-ai/concrete){:target="_blank"}
 *   **MK-TFHE: Multi-Key Homomophic Encryption from TFHE.** [<span style="color:#f00909">GitHub</span>](https://github.com/ilachill/MK-TFHE){:target="_blank"}
