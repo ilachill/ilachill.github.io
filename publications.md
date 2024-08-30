@@ -10,6 +10,7 @@ layout: default
 
 #### [](#header-4)2024
 
+*   	**Faster Secret Keys for (T)FHE** or **New Secret Keys for Enhanced Performance in (T)FHE.** L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, A. Roux-Langlois, S. Tap. _IACR Cryptology ePrint Archive 2023_ & ACM CCS 2024. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2023/979){:target="_blank"}     
 *   	**Security Guidelines for Implementing Homomorphic Encryption.** , R. Cammarota, J.H. Cheon, I. Chillotti, B.R. Curtis, W. Dai, H. Gong, E. Hales, D. Kim, B. Kumara, C. Lee, X. Lu, C. Maple, A. Pedrouzo-Ulloa, R. Player, L.A. Ruiz Lopez, Y. Song, D. Yhee, B. Yildiz. _IACR Cryptology ePrint Archive 2024 & accepted talk at FHE.org 2024_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2024/463){:target="_blank"}
 *   	**TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability.** , I. Chillotti, S. El Kazdadi, D. Ligier, A. Meyre, T. Montaigu, J.-B. Orfila, S. Tap. _Accepted talk at FHE.org 2024_.
 
@@ -17,7 +18,6 @@ layout: default
 #### [](#header-4)2023
 
 *   	**Scooby: Improved Multi-Party Homomorphic Secret Sharing Based on FHE (long version).** I. Chillotti, E. Orsini, P. Scholl, B. Van Leeuwen. _I & C 2023 (to appear)_.
-*   	**Faster Secret Keys for (T)FHE.** L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, A. Roux-Langlois, S. Tap. _IACR Cryptology ePrint Archive 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2023/979){:target="_blank"}
 *   	**Parameter Optimization & Larger Precision for (T)FHE.** L. Bergerat, A. Boudi, Q. Bourgerie, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _Journal of Cryptology 2023 & accepted talk at FHE.org 2023_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2022/704){:target="_blank"}
 
 
