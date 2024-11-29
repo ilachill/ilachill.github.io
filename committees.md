@@ -8,18 +8,19 @@ layout: default
 
 # Committees
 
-## [](#header-2)Programme Committee Member
+## [](#header-2)Program Committee Member
 
+* **FHE.org 2025** - Sofia (Bulgaria), March 25, 2025.
 *	**CIFRIS23** - Rome (Italy), December 14-15, 2023.
 *	**FHE.org 2023** - Tokyo (Japan), March 26, 2023.
 *	**RWC 2023** - Tokyo (Japan), March 27-29, 2023.
 *	**Asiacrypt 2022** - December 5-9, 2022.
 *	**PKC 2022** - March 7-11, 2022.
-* 	**WAHC 2021** - November 14, 2021.
+* **WAHC 2021** - November 14, 2021.
 *	**CFAIL 2021** - August, 14, 2021.
 *	**WAHC 2020** - Virtual Corona Edition, December 15, 2020.
 *	**Crypto 2020** - Santa Barbara, CA (USA), August 16-20, 2020.
-*   	**MathCrypt 2019** - Santa Barbara, CA (USA), August 18, 2019.
+* **MathCrypt 2019** - Santa Barbara, CA (USA), August 18, 2019.
 
 
 ## [](#header-2)Organization Committee Member
