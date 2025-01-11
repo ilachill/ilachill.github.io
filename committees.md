@@ -10,6 +10,7 @@ layout: default
 
 ## [](#header-2)Program Committee Member
 
+* **SAC 2025** - Toronto (Canada), August 11–15, 2025.
 * **FHE.org 2025** - Sofia (Bulgaria), March 25, 2025.
 *	**CIFRIS23** - Rome (Italy), December 14-15, 2023.
 *	**FHE.org 2023** - Tokyo (Japan), March 26, 2023.
