@@ -10,7 +10,8 @@ layout: default
 
 #### [](#header-4)2025
 
-*   	**Security Guidelines for Implementing Homomorphic Encryption.** , J.-P. Bossuat, R. Cammarota, I. Chillotti, B. R. Curtis, W. Dai, H. Gong, E. Hales, D. Kim, B. Kumara, C. Lee, X. Lu, C. Maple, A. Pedrouzo-Ulloa, R. Player, Y. Polyakov, L. A. Ruiz Lopez, Y. Song, D. Yhee. _CiC 2025_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2024/463){:target="_blank"}
+*     **TFHE Gets Real: an Efficient and Flexible Homomorphic Floating-Point Arithmetic.**, L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _TCHES 2025_, [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2025/257){:target="_blank"}
+*   	**Security Guidelines for Implementing Homomorphic Encryption.**, J.-P. Bossuat, R. Cammarota, I. Chillotti, B. R. Curtis, W. Dai, H. Gong, E. Hales, D. Kim, B. Kumara, C. Lee, X. Lu, C. Maple, A. Pedrouzo-Ulloa, R. Player, Y. Polyakov, L. A. Ruiz Lopez, Y. Song, D. Yhee. _CiC 2025_. [<span style="color:#f00909">PDF</span>](https://eprint.iacr.org/2024/463){:target="_blank"}
 
 #### [](#header-4)2024
 
