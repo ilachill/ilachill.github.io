@@ -127,6 +127,7 @@ layout: default
 
 ## [](#header-2)Panels
 
+*	June 2025 - **Panel 2: Breaking the cycle** at Decrypting Diversity Summit 2025 (Montpellier, France).
 *	August 2023 - **Privacy Preserving AI** at GHTC 2023, affiliated event at Crypto 2023 (Santa Barbara, California, USA).
 
 
