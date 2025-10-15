@@ -11,6 +11,9 @@ layout: default
 
 ## [](#header-2)Talks
 
+*   **DESILO FHE.**
+    *	October 2025 -  At Cryptography at Work for Blockchain, Paris (France).
+
 *   **Fully Homomorphic Encryption - Some recent results and new directions.**
 	* 	June 2025 - At Crypto Seminar, Luxembourg University (Luxembourg).
 
