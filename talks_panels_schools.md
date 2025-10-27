@@ -12,21 +12,21 @@ layout: default
 ## [](#header-2)Talks
 
 *   **FHE applications with DESILO FHE library.**
-  	*   October 2025 - At CNCC 2025 FHE Forum, Harbin (China).
+	*	October 2025 - At CNCC 2025 FHE Forum, Harbin (China).
 
 *   **DESILO FHE.**
-    *	October 2025 -  At Cryptography at Work for Blockchain, Paris (France).
+	*	October 2025 -  At Cryptography at Work for Blockchain, Paris (France).
 
 *   **Fully Homomorphic Encryption - Some recent results and new directions.**
-	* 	June 2025 - At Crypto Seminar, Luxembourg University (Luxembourg).
+	*	June 2025 - At Crypto Seminar, Luxembourg University (Luxembourg).
 
 *   **Fully Homomorphic Encryption - Introduction and new directions.**
-    *   August 2024 - At Math PQC 2024, Budapest (Hungary).
- 	*   July 2024 - At Normandie 2024, Caen (France).
-  	*   June 2024 - At 3MI Labs, Leuven (Belgium). 
+	*	August 2024 - At Math PQC 2024, Budapest (Hungary).
+	*	July 2024 - At Normandie 2024, Caen (France).
+	*	June 2024 - At 3MI Labs, Leuven (Belgium).
 
 *   **Fully Homomorphic Encryption - ML Applications and New Directions.**
-	* 	July 2024 - At PET Meetup, Seoul (Korea) - with Damien Ligier. 
+	*	July 2024 - At PET Meetup, Seoul (Korea) - with Damien Ligier.
 
 *   **An Overview of FHE, TFHE and Concrete Framework.**
 	*	September 2023 - At Cryptography and Coding Theory (Perugia, Italy) - with Damien Ligier.	   	
@@ -61,10 +61,10 @@ layout: default
 	*	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
 
 *   **Fully Homomorphic Encryption – end-to-end encryption everywhere.**
-	* 	November 2021 - At New Bridges between Mathematics and Data Science: a Scientific Debate (Valladolid, Spain).
+	*	November 2021 - At New Bridges between Mathematics and Data Science: a Scientific Debate (Valladolid, Spain).
 
 *   **Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks.**
-	* 	July 2021 - At CSCML 2021 (Israel, webinar).	
+	*	July 2021 - At CSCML 2021 (Israel, webinar).
 
 *   **TFHE deep dive.**
 	*	April 2021 - At FHE.org Meetup (webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=npoHSR6-oRw){:target="_blank"}
@@ -76,13 +76,13 @@ layout: default
 	*	December 2020 - At Seminario di Logica e Informatica Teorica (Università Roma Tre, webinar).
 
 *   **Introduction to FHE.**
-	* 	June 2020 - At ETSI Security Week Webinar (webinar).
+	*	June 2020 - At ETSI Security Week Webinar (webinar).
 
 *   **SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.**
-	* 	June 2020 - At TPMPC 2020 (webinar).
+	*	June 2020 - At TPMPC 2020 (webinar).
 
 *   **Introduction to FHE and the TFHE Scheme.**
-	* 	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=28XlccZgiUM){:target="_blank"}
+	*	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=28XlccZgiUM){:target="_blank"}
 
 *   **Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.**
 	*	November 2019 - At COSIC seminar (KU Leuven, Belgium) and ACM CCS 2019 (London, UK).
