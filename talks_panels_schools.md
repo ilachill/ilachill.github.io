@@ -11,6 +11,9 @@ layout: default
 
 ## [](#header-2)Talks
 
+*   **Fully Homomorphic Encryption - Overview, applications and new directions.**
+	*	November 2025 - At College de France, Paris (France, webinar).
+
 *   **FHE applications with DESILO FHE library.**
 	*	October 2025 - At CNCC 2025 FHE Forum, Harbin (China).
 
