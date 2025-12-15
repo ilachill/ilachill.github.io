@@ -12,7 +12,7 @@ layout: default
 ## [](#header-2)Talks
 
 *   **Fully Homomorphic Encryption - Overview, applications and new directions.**
-	*	November 2025 - At College de France, Paris (France, webinar).
+	*	November 2025 - At College de France, Paris (France, webinar). [<span style="color:#f00909">Video & Slides</span>](https://www.college-de-france.fr/fr/agenda/seminaire/le-calcul-securise-calculer-sur-des-donnees-chiffrees-ou-privees/chiffrement-totalement-homomorphe-panorama-applications-et-nouvelles-directions){:target="_blank"}.
 
 *   **FHE applications with DESILO FHE library.**
 	*	October 2025 - At CNCC 2025 FHE Forum, Harbin (China).
