@@ -28,6 +28,7 @@ layout: default
 
 ## [](#header-2)Organization Committee Member
 
+*	**9th HomomorphicEncryption.org Standards Meeting** - Seoul (South Korea), March 5 and 6, 2026. [<span style="color:#f00909">webpage</span>](https://homomorphicencryption.org/9th-homomorphicencryption-org-standards-meeting/){:target="_blank"}
 *	**General Chair (temporary) - FHE.org 2024** - Affiliated event to Real World Crypto 2024, Toronto (Canada), March 24, 2024. [<span style="color:#f00909">webpage</span>](https://fhe.org/conferences/conference-2024/){:target="_blank"}
 *	**FHE.org 2022** - Affiliated event to EUROCRYPT 2022, Trondheim (Norway), May 29, 2022. [<span style="color:#f00909">webpage</span>](https://fhe.org/conference/fhe-org-conference-2022){:target="_blank"}
 
