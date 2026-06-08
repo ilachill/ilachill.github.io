@@ -2,10 +2,6 @@
 layout: default
 ---
 
-[<span style="color:#f00909">**HOME**</span>](./)
-
-* * *
-
 # Awards
 
 
@@ -14,6 +10,4 @@ layout: default
 *	**Best Paper Award at Asiacrypt 2016** for the paper _Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds_.
 
 
-* * *
 
-[<span style="color:#f00909">**HOME**</span>](./)

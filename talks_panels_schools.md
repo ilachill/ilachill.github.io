@@ -2,17 +2,13 @@
 layout: default
 ---
 
-[<span style="color:#f00909">**HOME**</span>](./)
-
-* * *
-
 # Talks, Panels & Schools
 
 
 ## [](#header-2)Talks
 
 *   **Fully Homomorphic Encryption - Overview, applications and new directions.**
-	*	November 2025 - At College de France, Paris (France, webinar). [<span style="color:#f00909">Video & Slides</span>](https://www.college-de-france.fr/fr/agenda/seminaire/le-calcul-securise-calculer-sur-des-donnees-chiffrees-ou-privees/chiffrement-totalement-homomorphe-panorama-applications-et-nouvelles-directions){:target="_blank"}
+	*	November 2025 - At College de France, Paris (France, webinar). [<span style="color:#c05252">Video & Slides</span>](https://www.college-de-france.fr/fr/agenda/seminaire/le-calcul-securise-calculer-sur-des-donnees-chiffrees-ou-privees/chiffrement-totalement-homomorphe-panorama-applications-et-nouvelles-directions){:target="_blank"}
 
 *   **FHE applications with DESILO FHE library.**
 	*	October 2025 - At CNCC 2025 FHE Forum, Harbin (China).
@@ -60,7 +56,7 @@ layout: default
 
 *   **Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE.**
 	*	February 2022 - At CryptoExperts seminar (Paris, France, webinar).
-	*	December 2021 - At Asiacrypt 2021 - with D. Ligier, J.-B. Orfila and S. Tap. [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
+	*	December 2021 - At Asiacrypt 2021 - with D. Ligier, J.-B. Orfila and S. Tap. [<span style="color:#c05252">Video</span>](https://www.youtube.com/watch?v=tDqkJ0qomi0){:target="_blank"}
 	*	June 2021 - At Seminaire CRYPTO (UVSQ, Versailles, France).
 
 *   **Fully Homomorphic Encryption – end-to-end encryption everywhere.**
@@ -70,7 +66,7 @@ layout: default
 	*	July 2021 - At CSCML 2021 (Israel, webinar).
 
 *   **TFHE deep dive.**
-	*	April 2021 - At FHE.org Meetup (webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=npoHSR6-oRw){:target="_blank"}
+	*	April 2021 - At FHE.org Meetup (webinar). [<span style="color:#c05252">Video</span>](https://www.youtube.com/watch?v=npoHSR6-oRw){:target="_blank"}
 
 *   **New Challenges for Fully Homomorphic Encryption.** 
 	*	December 2020 - At PPML-PriML 2020 poster session (virtual NeurIPS 2020 workshop).
@@ -85,7 +81,7 @@ layout: default
 	*	June 2020 - At TPMPC 2020 (webinar).
 
 *   **Introduction to FHE and the TFHE Scheme.**
-	*	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar). [<span style="color:#f00909">Video</span>](https://www.youtube.com/watch?v=28XlccZgiUM){:target="_blank"}
+	*	April 2020 - At the "Lattices: From Theory to Practice" workshop (Simons Institute, webinar). [<span style="color:#c05252">Video</span>](https://www.youtube.com/watch?v=28XlccZgiUM){:target="_blank"}
 
 *   **Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE.**
 	*	November 2019 - At COSIC seminar (KU Leuven, Belgium) and ACM CCS 2019 (London, UK).
@@ -122,7 +118,7 @@ layout: default
 
 *   **An Homomorphic LWE based E-voting Scheme.** 
 	*	April 2016 - At Séminaires CRYPTO (University of Versailles, France).
-	*	February 2016 - At PQCrypto 2016 (Japan). [<span style="color:#f00909">Slides</span>](https://pqcrypto2016.jp/data/Chillotti-Gama_Georgieva_Izabachene-An_Homomorphic_LWE-based_E-voting_Scheme-less-pauses.pdf){:target="_blank"} 
+	*	February 2016 - At PQCrypto 2016 (Japan). [<span style="color:#c05252">Slides</span>](https://pqcrypto2016.jp/data/Chillotti-Gama_Georgieva_Izabachene-An_Homomorphic_LWE-based_E-voting_Scheme-less-pauses.pdf){:target="_blank"} 
 
 *   **Fully Homomorphic Encryption.** 
 	*	September 2017 - At Journée du LMV (University of Versailles, France).
@@ -157,6 +153,4 @@ layout: default
 	*   July 2015 - At CryptoBG International Summer School 2015 (Bulgaria).
 
 
-* * *
 
-[<span style="color:#f00909">**HOME**</span>](./)

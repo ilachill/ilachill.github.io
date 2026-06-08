@@ -2,10 +2,6 @@
 layout: default
 ---
 
-[<span style="color:#f00909">**HOME**</span>](./)
-
-* * *
-
 # Teaching and Students
 
 #### [](#header-4)Zama
@@ -28,6 +24,4 @@ layout: default
 *   **Foundations of computer science I**: TD (tutorial) 36h - L1 (BS.1) Bio-informatics (2017).
 
 
-* * *
 
-[<span style="color:#f00909">**HOME**</span>](./)

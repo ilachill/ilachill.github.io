@@ -23,7 +23,6 @@ lang: english
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
