@@ -10,18 +10,22 @@ layout: default
 <img src="Ilaria_2024_BW.jpeg" width="180" 
 style="float: left; margin-right: 10px; margin-bottom: 10px; border: solid black;">
 
-My main research subjects are <span style="color:#c05252">**Fully Homomorphic Encryption**</span>, <span style="color:#c05252">**Multi-Party Computation**</span> and <span style="color:#c05252">**Cloud Computing**</span>. 
-I am currently working as researcher at **DESILO Inc**. <br> 
 
-I did a B.S. in Mathematics at University of Cagliari, Italy (2012) and a M.S. in Cryptology at University Joseph Fourier of Grenoble, France (2014). 
-From 2015 to 2018 I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles (Université Paris-Saclay), under the supervision of Louis Goubin and Nicolas Gama. I defended the PhD thesis _Towards efficient and secure Fully Homomorphic Encryption and cloud computing_ in May 2018. I've been also:
-*	An ATER (research and teaching) at University of Versailles (UVSQ, Versailles, France) during the 2017-2018 accademic year.
-*	A research intern in the Cryptography Research group at Microsoft Research (Redmond, WA, USA) during Summer 2018.
-*	A visiting scientist for the [<span style="color:#c05252">Lattices: Algorithms, Complexity, and Cryptography</span>](https://simons.berkeley.edu/programs/lattices2020){:target="_blank"} program at Simons Institute (Berkeley, CA, USA) in January-February 2020.
-* 	A Post-Doc in the COSIC research group in KU Leuven (Leuven, Belgium) from November 2018 and April 2020.
-* 	**Cryptography Research Director** at Zama until November 2023.
+I am a cryptography researcher specializing in <span style="color:#c05252">**Fully Homomorphic Encryption**</span> (FHE — a technology enabling computation directly on encrypted data).
+More broadly, my research interests span Privacy-Enhancing Technologies (PETs) such as Multi-Party Computation (MPC), with applications to secure Cloud Computing.
+I currently work as a researcher at **DESILO Inc**.
+I am also an active contributor to the ISO SC27/WG2 working group on FHE standardization.
 
+I hold a B.S. in Mathematics from the University of Cagliari, Italy (2012) and an M.S. in Cryptology from the University Joseph Fourier of Grenoble, France (2014).
+From 2015 to 2018, I was a PhD student in the Crypto team at the Laboratory of Mathematics of Versailles (Université Paris-Saclay), under the supervision of Louis Goubin and Nicolas Gama, defending a thesis on the efficiency and security of FHE systems (*[Towards Efficient and Secure Fully Homomorphic Encryption and Cloud Computing](/papers/these_Ilaria_Chillotti_wo_acknowl.pdf){:target="_blank"}*), in May 2018.
 
+Before joining DESILO, I held a series of research and industry positions:
+
+- **Research and teaching fellowship (ATER)** at the University of Versailles (UVSQ, France), 2017–2018.
+- **Research Intern** in the Cryptography Research group at Microsoft Research (Redmond, WA, USA), Summer 2018.
+- **Post-Doc** in the COSIC research group at KU Leuven (Belgium), November 2018 – April 2020.
+- **Visiting Scientist** for the [Lattices: Algorithms, Complexity, and Cryptography](https://simons.berkeley.edu/programs/lattices2020){:target="_blank"} program at the Simons Institute (Berkeley, CA, USA), January–February 2020.
+- **Cryptography Research Director** at Zama, until November 2023.
 
 
 * * *
