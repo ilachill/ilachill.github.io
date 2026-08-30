@@ -143,7 +143,7 @@ layout: default
 
 ## [](#header-2)International schools
 *   **Fully Homomorphic Encryption (6h class)**
-	*	August 2026 - At IACR-VIASM Summer School on Cryptography 2026 (Hanoi, Vietnam 🇻🇳). [span style="color:#c05252">Slides</span>](https://drive.google.com/drive/folders/1f8ZPlfRh5_QkQDKUXH3WXJcQbpOXikNA){:target="_blank"}
+	*	August 2026 - At IACR-VIASM Summer School on Cryptography 2026 (Hanoi, Vietnam 🇻🇳). [<span style="color:#c05252">Slides</span>](https://drive.google.com/file/d/1TE8U_zSPSTMLeoTJ1nj9exgzXqaLNy-n/view?usp=share_link){:target="_blank"}
 
 *   **TFHE and applications.**
 	*   March 2023 - At ISC Virtual Winter School, SBU (Tehran, Iran 🇮🇷, webinar).
