@@ -4,6 +4,10 @@ layout: default
 
 # Publications
 
+#### [](#header-4)2026
+
+*     **Homomorphic Encryption and Bootstrapping for Real Matrices over Conjugate-Invariant Rings.**, I. Chillotti, H. Kim, Y. Lee, Y. Lee, D. Ligier. _IACR Cryptology ePrint Archive 2026_, [<span style="color:#c05252">PDF</span>](https://eprint.iacr.org/2026/2887){:target="_blank"}
+
 #### [](#header-4)2025
 
 *     **TFHE Gets Real: an Efficient and Flexible Homomorphic Floating-Point Arithmetic.**, L. Bergerat, I. Chillotti, D. Ligier, J.-B. Orfila, S. Tap. _TCHES 2025_, [<span style="color:#c05252">PDF</span>](https://eprint.iacr.org/2025/257){:target="_blank"}, [<span style="color:#c05252">artifact</span>](https://artifacts.iacr.org/tches/2025/a16/){:target="_blank"} 
